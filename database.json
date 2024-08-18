@@ -47,7 +47,7 @@
       "premiumTime": 0
     },
     "6281241100804@s.whatsapp.net": {
-      "exp": 35159,
+      "exp": 35179,
       "coin": 162,
       "diamond": 19,
       "bank": 0,
@@ -34004,10 +34004,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 304,
-      "success": 293,
-      "last": 1719132115909,
-      "lastSuccess": 1719132115909
+      "total": 305,
+      "success": 294,
+      "last": 1724006515506,
+      "lastSuccess": 1724006515506
     },
     "main-creator.js": {
       "total": 11,
