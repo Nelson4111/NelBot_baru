@@ -327,11 +327,11 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 1707,
+      "exp": 1854,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
-      "lastclaim": 1719080050209,
+      "lastclaim": 1724061330204,
       "registered": false,
       "name": "Farhan",
       "age": -1,
@@ -348,9 +348,10 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0,
-      "lastmiming": 1718723931372,
-      "weekly": 1718724078863,
-      "lastslot": 1718725138616
+      "lastmiming": 1724061335914,
+      "weekly": 1724061328295,
+      "lastslot": 1718725138616,
+      "crime": 1724061344393
     },
     "6282223958915@s.whatsapp.net": {
       "exp": 288,
@@ -514,8 +515,8 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1402,
-      "coin": 0,
+      "exp": 1510,
+      "coin": 1305,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 0,
@@ -534,7 +535,8 @@
       "genero": "Indeciso",
       "language": "id",
       "prem": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "crime": 1724059072561
     },
     "6282193034480@s.whatsapp.net": {
       "exp": 242,
@@ -793,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7037,
+      "exp": 7048,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1070,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3467,
+      "exp": 3468,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1744,7 +1746,7 @@
     },
     "601124305675@s.whatsapp.net": {
       "exp": 900,
-      "coin": 6500,
+      "coin": 6385,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 1719082994248,
@@ -7498,7 +7500,7 @@
     },
     "628990668334@s.whatsapp.net": {
       "exp": 2694,
-      "coin": 4805,
+      "coin": 3314,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 1714737768714,
@@ -13441,11 +13443,11 @@
       "premiumTime": 0
     },
     "6281953641356@s.whatsapp.net": {
-      "exp": 113,
-      "coin": 0,
+      "exp": 200,
+      "coin": 1500,
       "diamond": 69,
       "bank": 0,
-      "lastclaim": 0,
+      "lastclaim": 1724058950215,
       "registered": false,
       "name": "IndraSpg",
       "age": -1,
@@ -19555,7 +19557,7 @@
       "premiumTime": 0
     },
     "628819629063@s.whatsapp.net": {
-      "exp": 242,
+      "exp": 260,
       "coin": 0,
       "diamond": 69,
       "bank": 8335,
@@ -21809,7 +21811,7 @@
     },
     "6285852190299@s.whatsapp.net": {
       "exp": 1976,
-      "coin": 3487,
+      "coin": 2182,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 1718771853192,
@@ -30216,6 +30218,103 @@
       "prem": false,
       "premiumTime": 0,
       "crime": 1724057313491
+    },
+    "62895344462716@s.whatsapp.net": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "yb",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6285141072992@s.whatsapp.net": {
+      "exp": 254,
+      "coin": 490,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 1724058682739,
+      "registered": false,
+      "name": "Bot",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0,
+      "weekly": 1724058686790,
+      "crime": 1724058925880
+    },
+    "6287891477690@s.whatsapp.net": {
+      "exp": 68,
+      "coin": 1491,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "RinKyo",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0,
+      "crime": 1724059267389
+    },
+    "6287716300353@s.whatsapp.net": {
+      "exp": 85,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 6625,
+      "lastclaim": 1724059376452,
+      "registered": false,
+      "name": "nana",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0,
+      "crime": 1724059349434,
+      "weekly": 1724059381563
     }
   },
   "chats": {
@@ -34043,14 +34142,48 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "120363240927321588@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    },
+    "6287716300353@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 308,
-      "success": 297,
-      "last": 1724057420528,
-      "lastSuccess": 1724057420528
+      "total": 309,
+      "success": 298,
+      "last": 1724058879884,
+      "lastSuccess": 1724058879884
     },
     "main-creator.js": {
       "total": 11,
@@ -34113,10 +34246,10 @@
       "lastSuccess": 1719132111639
     },
     "sticker-sticker.js": {
-      "total": 310,
-      "success": 291,
-      "last": 1719131898390,
-      "lastSuccess": 1719131898390
+      "total": 312,
+      "success": 293,
+      "last": 1724058943788,
+      "lastSuccess": 1724058943788
     },
     "owner-exec.js": {
       "total": 18,
@@ -34419,22 +34552,22 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 122,
-      "success": 73,
-      "last": 1724057321142,
-      "lastSuccess": 1724057317291
+      "total": 126,
+      "success": 77,
+      "last": 1724061330204,
+      "lastSuccess": 1724061330204
     },
     "econ-weekly.js": {
-      "total": 43,
-      "success": 32,
-      "last": 1724057339029,
-      "lastSuccess": 1724057339029
+      "total": 46,
+      "success": 35,
+      "last": 1724061328295,
+      "lastSuccess": 1724061328295
     },
     "econ-mine.js": {
-      "total": 142,
-      "success": 83,
-      "last": 1719118893860,
-      "lastSuccess": 1719118368126
+      "total": 143,
+      "success": 84,
+      "last": 1724061335914,
+      "lastSuccess": 1724061335914
     },
     "econ-work.js": {
       "total": 26,
@@ -34449,10 +34582,10 @@
       "lastSuccess": 1718982865174
     },
     "econ-balance.js": {
-      "total": 579,
-      "success": 579,
-      "last": 1724057371909,
-      "lastSuccess": 1724057371909
+      "total": 582,
+      "success": 582,
+      "last": 1724061374021,
+      "lastSuccess": 1724061374021
     },
     "econ-buy.js": {
       "total": 26,
@@ -34461,10 +34594,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 186,
-      "success": 126,
-      "last": 1724057318434,
-      "lastSuccess": 1724057318434
+      "total": 193,
+      "success": 131,
+      "last": 1724061344393,
+      "lastSuccess": 1724061344393
     },
     "rg-register.js": {
       "total": 60,
@@ -34485,10 +34618,10 @@
       "lastSuccess": 1719117690737
     },
     "econ-dep.js": {
-      "total": 155,
-      "success": 141,
-      "last": 1724057369344,
-      "lastSuccess": 1724057369344
+      "total": 156,
+      "success": 142,
+      "last": 1724059398907,
+      "lastSuccess": 1724059398907
     },
     "econ-leaderboard.js": {
       "total": 55,
@@ -34749,10 +34882,10 @@
       "lastSuccess": 1712412226492
     },
     "game-roulette.js": {
-      "total": 935,
-      "success": 893,
-      "last": 1719118629142,
-      "lastSuccess": 1719118629142
+      "total": 939,
+      "success": 897,
+      "last": 1724061401539,
+      "lastSuccess": 1724061401539
     },
     "av-sad.js": {
       "total": 141,
@@ -34887,10 +35020,10 @@
       "lastSuccess": 1718725890977
     },
     "maker-toanime.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1719132204840,
-      "lastSuccess": 1719132204840
+      "total": 18,
+      "success": 18,
+      "last": 1724058888739,
+      "lastSuccess": 1724058888739
     },
     "dl-play.js": {
       "total": 54,
