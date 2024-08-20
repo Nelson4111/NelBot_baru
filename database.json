@@ -13327,7 +13327,7 @@
       "premiumTime": 0
     },
     "6283121099207@s.whatsapp.net": {
-      "exp": 26468,
+      "exp": 26530,
       "coin": 209,
       "diamond": 68,
       "bank": 0,
@@ -34408,10 +34408,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 312,
-      "success": 301,
-      "last": 1724067898685,
-      "lastSuccess": 1724067898685
+      "total": 313,
+      "success": 302,
+      "last": 1724193981982,
+      "lastSuccess": 1724193981982
     },
     "main-creator.js": {
       "total": 11,
@@ -34552,10 +34552,10 @@
       "lastSuccess": 0
     },
     "dl-tiktok.js": {
-      "total": 146,
-      "success": 134,
-      "last": 1724067645336,
-      "lastSuccess": 1724067645336
+      "total": 147,
+      "success": 135,
+      "last": 1724193977013,
+      "lastSuccess": 1724193977013
     },
     "dl-igstalk.js": {
       "total": 10,
@@ -34588,10 +34588,10 @@
       "lastSuccess": 1718967815703
     },
     "av-bot.js": {
-      "total": 153,
-      "success": 153,
-      "last": 1718970039643,
-      "lastSuccess": 1718970039643
+      "total": 154,
+      "success": 154,
+      "last": 1724193980164,
+      "lastSuccess": 1724193980164
     },
     "dl-mediafire.js": {
       "total": 4,
