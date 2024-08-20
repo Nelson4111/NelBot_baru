@@ -15,11 +15,11 @@ global.APIs = {
 global.APIKeys = {
   // APIKey Here
   // 'https://website': 'apikey'
-  "https://api.betabotz.eu.org": "T36DEGwA",
+  "https://api.betabotz.eu.org": "66c32eac2dbdbfbe412b",
 };
 
 // Apikey lu
-global.lann = "lKLhbk8z";
+global.lann = "66c32eac2dbdbfbe412b";
 
 // setting limit user
 global.limit = 69;
