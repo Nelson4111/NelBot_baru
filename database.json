@@ -1423,7 +1423,7 @@
       "premiumTime": 0
     },
     "6282285847941@s.whatsapp.net": {
-      "exp": 79,
+      "exp": 91,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13925,7 +13925,7 @@
       "premiumTime": 0
     },
     "6289602658742@s.whatsapp.net": {
-      "exp": 580,
+      "exp": 598,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30870,6 +30870,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6287700554284@s.whatsapp.net": {
+      "exp": 10,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "~💫",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -34818,6 +34841,23 @@
       "rules": ""
     },
     "120363253632365079@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    },
+    "6287700554284@s.whatsapp.net": {
       "isBanned": false,
       "welcome": false,
       "detect": false,
