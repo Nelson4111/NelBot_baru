@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 17967,
+      "exp": 17993,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -703,7 +703,7 @@
       "premiumTime": 0
     },
     "6281295909429@s.whatsapp.net": {
-      "exp": 228,
+      "exp": 262,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7292,7 +7292,7 @@
       "premiumTime": 0
     },
     "6281341702540@s.whatsapp.net": {
-      "exp": 216,
+      "exp": 248,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22094,7 +22094,7 @@
       "premiumTime": 0
     },
     "120363270328348155@g.us": {
-      "exp": 102,
+      "exp": 109,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30321,8 +30321,8 @@
       "weekly": 1724059381563
     },
     "6282141150018@s.whatsapp.net": {
-      "exp": 316,
-      "coin": 0,
+      "exp": 337,
+      "coin": 41,
       "diamond": 69,
       "bank": 10705,
       "lastclaim": 1724196079907,
@@ -30343,7 +30343,7 @@
       "prem": false,
       "premiumTime": 0,
       "weekly": 1724065297009,
-      "lastmiming": 1724196088880,
+      "lastmiming": 1724225788450,
       "crime": 1724196091389
     },
     "6281245629886@s.whatsapp.net": {
@@ -30586,6 +30586,28 @@
       "lastclaim": 0,
       "registered": false,
       "name": "Fathir Adam☭",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "102461226389545@lid": {
+      "exp": 7,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -34900,10 +34922,10 @@
       "lastSuccess": 1724065644227
     },
     "econ-mine.js": {
-      "total": 149,
-      "success": 90,
-      "last": 1724198376274,
-      "lastSuccess": 1724198376274
+      "total": 150,
+      "success": 91,
+      "last": 1724225788451,
+      "lastSuccess": 1724225788451
     },
     "econ-work.js": {
       "total": 27,
