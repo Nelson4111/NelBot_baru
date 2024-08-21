@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 966,
+      "exp": 988,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -4510,7 +4510,7 @@
       "premiumTime": 0
     },
     "6281381685954@s.whatsapp.net": {
-      "exp": 159,
+      "exp": 264,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13166,7 +13166,7 @@
       "premiumTime": 0
     },
     "6285341686665@s.whatsapp.net": {
-      "exp": 229,
+      "exp": 237,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13327,7 +13327,7 @@
       "premiumTime": 0
     },
     "6283121099207@s.whatsapp.net": {
-      "exp": 26630,
+      "exp": 26634,
       "coin": 209,
       "diamond": 68,
       "bank": 0,
@@ -34516,10 +34516,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 316,
-      "success": 305,
-      "last": 1724217720319,
-      "lastSuccess": 1724217720319
+      "total": 317,
+      "success": 306,
+      "last": 1724222881465,
+      "lastSuccess": 1724222881465
     },
     "main-creator.js": {
       "total": 11,
@@ -35386,10 +35386,10 @@
       "lastSuccess": 1719036978937
     },
     "maker-remini.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1724068027882,
-      "lastSuccess": 1724068027882
+      "total": 11,
+      "success": 11,
+      "last": 1724222988925,
+      "lastSuccess": 1724222988925
     },
     "dl-tiktokstalk.js": {
       "total": 4,
