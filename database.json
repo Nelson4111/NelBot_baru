@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 988,
+      "exp": 1001,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -887,7 +887,7 @@
       "premiumTime": 0
     },
     "6283199280461@s.whatsapp.net": {
-      "exp": 958,
+      "exp": 963,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -3059,7 +3059,7 @@
       "premiumTime": 0
     },
     "6283867514317@s.whatsapp.net": {
-      "exp": 255,
+      "exp": 289,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -6326,7 +6326,7 @@
       "premiumTime": 0
     },
     "6281221951007@s.whatsapp.net": {
-      "exp": 176,
+      "exp": 241,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7780,7 +7780,7 @@
       "premiumTime": 0
     },
     "6283141127932@s.whatsapp.net": {
-      "exp": 139,
+      "exp": 184,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30622,6 +30622,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "62882006016549@s.whatsapp.net": {
+      "exp": 10,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 882-0060-16549",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -34519,6 +34542,23 @@
       "rules": ""
     },
     "6281372438218@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    },
+    "6283141127932@s.whatsapp.net": {
       "isBanned": false,
       "welcome": false,
       "detect": false,
