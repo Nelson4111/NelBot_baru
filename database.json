@@ -30916,6 +30916,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6289612317690@s.whatsapp.net": {
+      "exp": 10,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "ẉ.ceo/𑜿ࣧࣧkurࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -34881,6 +34904,23 @@
       "rules": ""
     },
     "6287700554284@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    },
+    "6289612317690@s.whatsapp.net": {
       "isBanned": false,
       "welcome": false,
       "detect": false,
