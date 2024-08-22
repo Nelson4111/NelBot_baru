@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1039,
+      "exp": 1086,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7389,
+      "exp": 7396,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22095,7 +22095,7 @@
       "premiumTime": 0
     },
     "120363270328348155@g.us": {
-      "exp": 181,
+      "exp": 182,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22541,7 +22541,7 @@
       "premiumTime": 0
     },
     "6285749618902@s.whatsapp.net": {
-      "exp": 95,
+      "exp": 96,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -31077,6 +31077,50 @@
     },
     "57226345627862@lid": {
       "exp": 3,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "247720895844586@lid": {
+      "exp": 5,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "116088855617688@lid": {
+      "exp": 4,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
