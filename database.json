@@ -75,7 +75,7 @@
       "lastslot": 1718724370184
     },
     "6285815653469@s.whatsapp.net": {
-      "exp": 470,
+      "exp": 476,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 18458,
+      "exp": 18502,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -354,7 +354,7 @@
       "crime": 1724061344393
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 337,
+      "exp": 359,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -515,7 +515,7 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1514,
+      "exp": 1518,
       "coin": 1305,
       "diamond": 69,
       "bank": 0,
@@ -703,7 +703,7 @@
       "premiumTime": 0
     },
     "6281295909429@s.whatsapp.net": {
-      "exp": 262,
+      "exp": 273,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7503,
+      "exp": 7511,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -910,7 +910,7 @@
       "premiumTime": 0
     },
     "120363047210793301@g.us": {
-      "exp": 300,
+      "exp": 302,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -933,7 +933,7 @@
       "premiumTime": 0
     },
     "6281251737411-1635767306@g.us": {
-      "exp": 307,
+      "exp": 311,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -12523,7 +12523,7 @@
       "premiumTime": 0
     },
     "6282342440874@s.whatsapp.net": {
-      "exp": 116,
+      "exp": 130,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 256,
+      "exp": 258,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -21815,7 +21815,7 @@
     },
     "6285852190299@s.whatsapp.net": {
       "exp": 1976,
-      "coin": 2182,
+      "coin": 294,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 1718771853192,
@@ -30200,7 +30200,7 @@
       "premiumTime": 0
     },
     "6281371825548@s.whatsapp.net": {
-      "exp": 1307,
+      "exp": 1332,
       "coin": 217,
       "diamond": 69,
       "bank": 0,
@@ -30272,7 +30272,7 @@
       "crime": 1724058925880
     },
     "6287891477690@s.whatsapp.net": {
-      "exp": 191,
+      "exp": 200,
       "coin": 4793,
       "diamond": 69,
       "bank": 0,
@@ -30373,11 +30373,11 @@
       "lastmiming": 1724066892178
     },
     "6285834452740@s.whatsapp.net": {
-      "exp": 371,
+      "exp": 71332,
       "coin": 0,
       "diamond": 69,
-      "bank": 9008,
-      "lastclaim": 1724236157817,
+      "bank": 12702,
+      "lastclaim": 1724338340483,
       "registered": true,
       "name": "arun",
       "age": 15,
@@ -30386,8 +30386,8 @@
       "afkReason": "",
       "banned": false,
       "warn": 0,
-      "level": 0,
-      "role": "Novice",
+      "level": 12,
+      "role": "Magus",
       "autolevelup": false,
       "chatbot": false,
       "genero": "🙆🏻‍♂️ Pria",
@@ -30395,8 +30395,8 @@
       "prem": false,
       "premiumTime": 0,
       "weekly": 1724065644227,
-      "lastmiming": 1724236160868,
-      "crime": 1724236165712
+      "lastmiming": 1724338354449,
+      "crime": 1724338350631
     },
     "213532989755434@lid": {
       "exp": 6,
@@ -30421,7 +30421,7 @@
       "premiumTime": 0
     },
     "6289503310542@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 15,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33106,6 +33106,119 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "62895629928010@s.whatsapp.net": {
+      "exp": 61,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Johanes luffy siregar",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "275243482521693@lid": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Obet",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "38096578023678@lid": {
+      "exp": 10,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "72335889539228@lid": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6285397679668@s.whatsapp.net": {
+      "exp": 23,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Magfira",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -37554,10 +37667,10 @@
       "lastSuccess": 1719030863159
     },
     "econ-levelup.js": {
-      "total": 67,
-      "success": 67,
-      "last": 1724332621869,
-      "lastSuccess": 1724332621869
+      "total": 68,
+      "success": 68,
+      "last": 1724338601807,
+      "lastSuccess": 1724338601807
     },
     "fun-simsimi.js": {
       "total": 160,
@@ -37590,10 +37703,10 @@
       "lastSuccess": 1724329650633
     },
     "_cek.js": {
-      "total": 107,
-      "success": 107,
-      "last": 1724328955918,
-      "lastSuccess": 1724328955918
+      "total": 108,
+      "success": 108,
+      "last": 1724337801675,
+      "lastSuccess": 1724337801675
     },
     "game-dado.js": {
       "total": 8,
@@ -37794,10 +37907,10 @@
       "lastSuccess": 0
     },
     "game-tebakkata.js": {
-      "total": 565,
-      "success": 538,
-      "last": 1724332545415,
-      "lastSuccess": 1724332545415
+      "total": 581,
+      "success": 554,
+      "last": 1724338776129,
+      "lastSuccess": 1724338776129
     },
     "gp-profile.js": {
       "total": 71,
@@ -37884,22 +37997,22 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 136,
-      "success": 87,
-      "last": 1724329070145,
-      "lastSuccess": 1724329070145
+      "total": 137,
+      "success": 88,
+      "last": 1724338340484,
+      "lastSuccess": 1724338340484
     },
     "econ-weekly.js": {
-      "total": 51,
+      "total": 52,
       "success": 40,
-      "last": 1724329076406,
+      "last": 1724338346245,
       "lastSuccess": 1724329076406
     },
     "econ-mine.js": {
-      "total": 153,
-      "success": 94,
-      "last": 1724329073296,
-      "lastSuccess": 1724329073296
+      "total": 154,
+      "success": 95,
+      "last": 1724338354449,
+      "lastSuccess": 1724338354449
     },
     "econ-work.js": {
       "total": 27,
@@ -37914,10 +38027,10 @@
       "lastSuccess": 1718982865174
     },
     "econ-balance.js": {
-      "total": 592,
-      "success": 592,
-      "last": 1724329078675,
-      "lastSuccess": 1724329078675
+      "total": 595,
+      "success": 595,
+      "last": 1724338412890,
+      "lastSuccess": 1724338412890
     },
     "econ-buy.js": {
       "total": 26,
@@ -37926,10 +38039,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 206,
-      "success": 142,
-      "last": 1724329071491,
-      "lastSuccess": 1724329071491
+      "total": 207,
+      "success": 143,
+      "last": 1724338350632,
+      "lastSuccess": 1724338350632
     },
     "rg-register.js": {
       "total": 63,
@@ -37950,22 +38063,22 @@
       "lastSuccess": 1724235467321
     },
     "econ-dep.js": {
-      "total": 161,
-      "success": 147,
-      "last": 1724236171363,
-      "lastSuccess": 1724236171363
+      "total": 162,
+      "success": 148,
+      "last": 1724338359371,
+      "lastSuccess": 1724338359371
     },
     "econ-leaderboard.js": {
-      "total": 57,
-      "success": 57,
-      "last": 1724065706707,
-      "lastSuccess": 1724065706707
+      "total": 58,
+      "success": 58,
+      "last": 1724338612138,
+      "lastSuccess": 1724338612138
     },
     "game-tebakkata-hint.js": {
-      "total": 226,
-      "success": 192,
-      "last": 1724332561501,
-      "lastSuccess": 1724332561501
+      "total": 239,
+      "success": 204,
+      "last": 1724338767756,
+      "lastSuccess": 1724338751177
     },
     "fun-jodohku.js": {
       "total": 27,
