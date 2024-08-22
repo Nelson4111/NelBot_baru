@@ -47,7 +47,7 @@
       "premiumTime": 0
     },
     "6281241100804@s.whatsapp.net": {
-      "exp": 35462,
+      "exp": 35513,
       "coin": 162,
       "diamond": 19,
       "bank": 0,
@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 18303,
+      "exp": 18315,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1086,
+      "exp": 1092,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -634,7 +634,7 @@
       "premiumTime": 0
     },
     "6285299402730@s.whatsapp.net": {
-      "exp": 51,
+      "exp": 58,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -772,7 +772,7 @@
       "premiumTime": 0
     },
     "6281545547100@s.whatsapp.net": {
-      "exp": 8031,
+      "exp": 8059,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7413,
+      "exp": 7426,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1123,7 +1123,7 @@
       "shipping": 1718795637479
     },
     "6285694615707@s.whatsapp.net": {
-      "exp": 3287,
+      "exp": 3289,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -4510,7 +4510,7 @@
       "premiumTime": 0
     },
     "6281381685954@s.whatsapp.net": {
-      "exp": 386,
+      "exp": 394,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 245,
+      "exp": 256,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13902,7 +13902,7 @@
       "premiumTime": 0
     },
     "6281226593958@s.whatsapp.net": {
-      "exp": 159,
+      "exp": 186,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -21788,7 +21788,7 @@
     },
     "6287865692403@s.whatsapp.net": {
       "exp": 14940,
-      "coin": 11000,
+      "coin": 10707,
       "diamond": 69,
       "bank": 30000,
       "lastclaim": 1719061930814,
@@ -30322,11 +30322,11 @@
       "weekly": 1724059381563
     },
     "6282141150018@s.whatsapp.net": {
-      "exp": 432,
-      "coin": 0,
+      "exp": 499,
+      "coin": 1967,
       "diamond": 69,
       "bank": 10390,
-      "lastclaim": 1724196079907,
+      "lastclaim": 1724319081709,
       "registered": false,
       "name": "es campur sedap mak nyos",
       "age": -1,
@@ -30344,8 +30344,8 @@
       "prem": false,
       "premiumTime": 0,
       "weekly": 1724065297009,
-      "lastmiming": 1724225788450,
-      "crime": 1724235456634
+      "lastmiming": 1724319084164,
+      "crime": 1724319086552
     },
     "6281245629886@s.whatsapp.net": {
       "exp": 143,
@@ -35258,10 +35258,10 @@
       "lastSuccess": 1718792722303
     },
     "_cek.js": {
-      "total": 95,
-      "success": 95,
-      "last": 1724235487179,
-      "lastSuccess": 1724235487179
+      "total": 96,
+      "success": 96,
+      "last": 1724317324398,
+      "lastSuccess": 1724317324398
     },
     "game-dado.js": {
       "total": 8,
@@ -35552,10 +35552,10 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 134,
-      "success": 85,
-      "last": 1724242338369,
-      "lastSuccess": 1724242338369
+      "total": 135,
+      "success": 86,
+      "last": 1724319081709,
+      "lastSuccess": 1724319081709
     },
     "econ-weekly.js": {
       "total": 50,
@@ -35564,10 +35564,10 @@
       "lastSuccess": 1724242345413
     },
     "econ-mine.js": {
-      "total": 151,
-      "success": 92,
-      "last": 1724236160868,
-      "lastSuccess": 1724236160868
+      "total": 152,
+      "success": 93,
+      "last": 1724319084164,
+      "lastSuccess": 1724319084164
     },
     "econ-work.js": {
       "total": 27,
@@ -35594,10 +35594,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 204,
-      "success": 140,
-      "last": 1724236165712,
-      "lastSuccess": 1724236165712
+      "total": 205,
+      "success": 141,
+      "last": 1724319086552,
+      "lastSuccess": 1724319086552
     },
     "rg-register.js": {
       "total": 63,
@@ -35756,10 +35756,10 @@
       "lastSuccess": 1711608036894
     },
     "dl-tiktokslide.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1712713624917,
-      "lastSuccess": 1712713624917
+      "total": 5,
+      "success": 5,
+      "last": 1724317330496,
+      "lastSuccess": 1724317330496
     },
     "av_Audio.js": {
       "total": 55,
