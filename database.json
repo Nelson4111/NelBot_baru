@@ -21054,7 +21054,7 @@
       "premiumTime": 0
     },
     "6282142614946@s.whatsapp.net": {
-      "exp": 2052,
+      "exp": 2078,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22095,7 +22095,7 @@
       "premiumTime": 0
     },
     "120363270328348155@g.us": {
-      "exp": 176,
+      "exp": 181,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22564,7 +22564,7 @@
       "premiumTime": 0
     },
     "186689343479996@lid": {
-      "exp": 83,
+      "exp": 92,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23095,7 +23095,7 @@
       "premiumTime": 0
     },
     "6281379947847@s.whatsapp.net": {
-      "exp": 962,
+      "exp": 983,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23104,8 +23104,8 @@
       "name": "Abss~",
       "age": -1,
       "regTime": -1,
-      "afk": 1718995449605,
-      "afkReason": "lanjut ngewe",
+      "afk": -1,
+      "afkReason": "",
       "banned": false,
       "warn": 0,
       "level": 0,
@@ -30895,7 +30895,7 @@
       "premiumTime": 0
     },
     "6281929364112@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 41,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -31055,6 +31055,28 @@
     },
     "209350094233839@lid": {
       "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "57226345627862@lid": {
+      "exp": 3,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
