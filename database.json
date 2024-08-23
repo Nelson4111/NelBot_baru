@@ -35868,6 +35868,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "628385848829@s.whatsapp.net": {
+      "exp": 33,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "S",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -41274,10 +41297,10 @@
       "lastSuccess": 1724407881933
     },
     "av-sad.js": {
-      "total": 157,
-      "success": 157,
-      "last": 1724424709726,
-      "lastSuccess": 1724424709726
+      "total": 158,
+      "success": 158,
+      "last": 1724432585156,
+      "lastSuccess": 1724432585156
     },
     "fun-apakah.js": {
       "total": 47,
