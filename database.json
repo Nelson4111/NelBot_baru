@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33453,
+      "exp": 33475,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30324,7 +30324,7 @@
       "weekly": 1724059381563
     },
     "6282141150018@s.whatsapp.net": {
-      "exp": 61499,
+      "exp": 132053,
       "coin": 2825,
       "diamond": 69,
       "bank": 10390,
@@ -30337,8 +30337,8 @@
       "afkReason": "",
       "banned": false,
       "warn": 0,
-      "level": 13,
-      "role": "Magus",
+      "level": 18,
+      "role": "Master",
       "autolevelup": false,
       "chatbot": false,
       "genero": "🤵🏻‍♀️ Wanita",
@@ -33260,7 +33260,7 @@
       "premiumTime": 0
     },
     "277554124566758@lid": {
-      "exp": 1,
+      "exp": 12,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33557,6 +33557,29 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6285163110545@s.whatsapp.net": {
+      "exp": 2,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "es teh anget",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -38027,6 +38050,23 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6285163110545@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
@@ -38073,10 +38113,10 @@
       "lastSuccess": 1719030863159
     },
     "econ-levelup.js": {
-      "total": 69,
-      "success": 69,
-      "last": 1724338888317,
-      "lastSuccess": 1724338888317
+      "total": 70,
+      "success": 70,
+      "last": 1724372044354,
+      "lastSuccess": 1724372044354
     },
     "fun-simsimi.js": {
       "total": 160,
@@ -38313,10 +38353,10 @@
       "lastSuccess": 0
     },
     "game-tebakkata.js": {
-      "total": 582,
-      "success": 555,
-      "last": 1724338846208,
-      "lastSuccess": 1724338846208
+      "total": 596,
+      "success": 569,
+      "last": 1724372019931,
+      "lastSuccess": 1724372019931
     },
     "gp-profile.js": {
       "total": 71,
@@ -38481,10 +38521,10 @@
       "lastSuccess": 1724338902527
     },
     "game-tebakkata-hint.js": {
-      "total": 240,
-      "success": 205,
-      "last": 1724338878044,
-      "lastSuccess": 1724338878044
+      "total": 247,
+      "success": 212,
+      "last": 1724372026486,
+      "lastSuccess": 1724372026486
     },
     "fun-jodohku.js": {
       "total": 27,
