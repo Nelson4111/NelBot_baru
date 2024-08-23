@@ -887,7 +887,7 @@
       "premiumTime": 0
     },
     "6283199280461@s.whatsapp.net": {
-      "exp": 1007,
+      "exp": 1016,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -30350,7 +30350,7 @@
       "crime": 1724370757137
     },
     "6281245629886@s.whatsapp.net": {
-      "exp": 143,
+      "exp": 161,
       "coin": 2785,
       "diamond": 69,
       "bank": 0,
@@ -35755,7 +35755,7 @@
       "premiumTime": 0
     },
     "6281380387070@s.whatsapp.net": {
-      "exp": 335,
+      "exp": 356,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -35899,6 +35899,29 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6287845010363@s.whatsapp.net": {
+      "exp": 12,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Aliyaaa",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -40665,10 +40688,10 @@
       "lastSuccess": 1719028508828
     },
     "bebot-bebot.js": {
-      "total": 88,
-      "success": 64,
-      "last": 1724420248704,
-      "lastSuccess": 1724420248704
+      "total": 89,
+      "success": 65,
+      "last": 1724452812419,
+      "lastSuccess": 1724452812419
     },
     "gp-kick.js": {
       "total": 29,
@@ -40791,10 +40814,10 @@
       "lastSuccess": 1718967815703
     },
     "av-bot.js": {
-      "total": 163,
-      "success": 163,
-      "last": 1724424209166,
-      "lastSuccess": 1724424209166
+      "total": 164,
+      "success": 164,
+      "last": 1724452573050,
+      "lastSuccess": 1724452573050
     },
     "dl-mediafire.js": {
       "total": 4,
