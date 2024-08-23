@@ -586,7 +586,7 @@
     },
     "6285876974604@s.whatsapp.net": {
       "exp": 12308,
-      "coin": 12365,
+      "coin": 11904,
       "diamond": 67,
       "bank": 0,
       "lastclaim": 1714737730096,
@@ -30324,15 +30324,15 @@
       "weekly": 1724059381563
     },
     "6282141150018@s.whatsapp.net": {
-      "exp": 61286,
-      "coin": 1967,
+      "exp": 61499,
+      "coin": 2825,
       "diamond": 69,
       "bank": 10390,
       "lastclaim": 1724319081709,
-      "registered": false,
-      "name": "es campur sedap mak nyos",
-      "age": -1,
-      "regTime": -1,
+      "registered": true,
+      "name": "Nanas",
+      "age": 16,
+      "regTime": 1724370861759,
       "afk": -1,
       "afkReason": "",
       "banned": false,
@@ -30341,13 +30341,13 @@
       "role": "Magus",
       "autolevelup": false,
       "chatbot": false,
-      "genero": "Indeciso",
+      "genero": "🤵🏻‍♀️ Wanita",
       "language": "id",
       "prem": false,
       "premiumTime": 0,
       "weekly": 1724065297009,
-      "lastmiming": 1724319084164,
-      "crime": 1724319086552
+      "lastmiming": 1724370754596,
+      "crime": 1724370757137
     },
     "6281245629886@s.whatsapp.net": {
       "exp": 143,
@@ -38115,10 +38115,10 @@
       "lastSuccess": 1724341724920
     },
     "game-dado.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1716348869008,
-      "lastSuccess": 1716348869008
+      "total": 9,
+      "success": 9,
+      "last": 1724370878260,
+      "lastSuccess": 1724370878260
     },
     "game-math.js": {
       "total": 15,
@@ -38403,27 +38403,27 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 139,
+      "total": 140,
       "success": 89,
-      "last": 1724340064956,
+      "last": 1724370751155,
       "lastSuccess": 1724340064738
     },
     "econ-weekly.js": {
-      "total": 54,
+      "total": 55,
       "success": 41,
-      "last": 1724340062660,
+      "last": 1724370941072,
       "lastSuccess": 1724340062466
     },
     "econ-mine.js": {
-      "total": 156,
-      "success": 96,
-      "last": 1724340071214,
-      "lastSuccess": 1724340071028
+      "total": 157,
+      "success": 97,
+      "last": 1724370754596,
+      "lastSuccess": 1724370754596
     },
     "econ-work.js": {
-      "total": 27,
+      "total": 28,
       "success": 0,
-      "last": 1724198443435,
+      "last": 1724370943963,
       "lastSuccess": 0
     },
     "econ-shop.js": {
@@ -38445,16 +38445,16 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 209,
-      "success": 144,
-      "last": 1724340069286,
-      "lastSuccess": 1724340069072
+      "total": 210,
+      "success": 145,
+      "last": 1724370757138,
+      "lastSuccess": 1724370757138
     },
     "rg-register.js": {
-      "total": 63,
-      "success": 17,
-      "last": 1724199881354,
-      "lastSuccess": 1724199881354
+      "total": 66,
+      "success": 18,
+      "last": 1724370861763,
+      "lastSuccess": 1724370861763
     },
     "maker-logos.js": {
       "total": 10,
@@ -38643,10 +38643,10 @@
       "lastSuccess": 1724219038248
     },
     "fun-iqtest.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1719131764346,
-      "lastSuccess": 1719131764346
+      "total": 25,
+      "success": 25,
+      "last": 1724370795697,
+      "lastSuccess": 1724370795697
     },
     "sticker-ttp.js": {
       "total": 2,
