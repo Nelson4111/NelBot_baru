@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1533,
+      "exp": 1542,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1381838,
+      "exp": 1381847,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -22095,7 +22095,7 @@
       "premiumTime": 0
     },
     "120363270328348155@g.us": {
-      "exp": 363,
+      "exp": 375,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22610,7 +22610,7 @@
       "premiumTime": 0
     },
     "242588711973065@lid": {
-      "exp": 86,
+      "exp": 121,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30200,7 +30200,7 @@
       "premiumTime": 0
     },
     "6281371825548@s.whatsapp.net": {
-      "exp": 3095,
+      "exp": 3159,
       "coin": 7723,
       "diamond": 68,
       "bank": 0,
@@ -30324,7 +30324,7 @@
       "weekly": 1724059381563
     },
     "6282141150018@s.whatsapp.net": {
-      "exp": 132053,
+      "exp": 132080,
       "coin": 2825,
       "diamond": 69,
       "bank": 10390,
@@ -33260,7 +33260,7 @@
       "premiumTime": 0
     },
     "277554124566758@lid": {
-      "exp": 45,
+      "exp": 77,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33596,7 +33596,7 @@
       "premiumTime": 0
     },
     "6287738920257@s.whatsapp.net": {
-      "exp": 62,
+      "exp": 68,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33619,7 +33619,7 @@
       "premiumTime": 0
     },
     "6281330968800@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 27,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33642,7 +33642,7 @@
       "premiumTime": 0
     },
     "6285216926311@s.whatsapp.net": {
-      "exp": 17,
+      "exp": 29,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33687,7 +33687,7 @@
       "premiumTime": 0
     },
     "6285795636049@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 36,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33779,7 +33779,7 @@
       "premiumTime": 0
     },
     "120363044726393850@g.us": {
-      "exp": 6,
+      "exp": 12,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33894,7 +33894,7 @@
       "premiumTime": 0
     },
     "6288232347323@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 31,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33917,13 +33917,170 @@
       "premiumTime": 0
     },
     "6281275645620@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 35,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
       "name": "Rey",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "210385114255525@lid": {
+      "exp": 10,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6285154954631@s.whatsapp.net": {
+      "exp": 15,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Bagas Sigma Banget Njir😂",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "3972844798011@lid": {
+      "exp": 2,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "bŕzn",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "55727469117587@lid": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "628561508429@s.whatsapp.net": {
+      "exp": 42,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Beyond Birthday",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "180715278844068@lid": {
+      "exp": 10,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "14766416384247@lid": {
+      "exp": 2,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -38520,10 +38677,10 @@
       "lastSuccess": 1719028508828
     },
     "bebot-bebot.js": {
-      "total": 70,
-      "success": 52,
-      "last": 1724376833151,
-      "lastSuccess": 1724376759630
+      "total": 72,
+      "success": 53,
+      "last": 1724379645983,
+      "lastSuccess": 1724379627506
     },
     "gp-kick.js": {
       "total": 29,
@@ -38544,10 +38701,10 @@
       "lastSuccess": 1724329650633
     },
     "_cek.js": {
-      "total": 118,
-      "success": 118,
-      "last": 1724376835421,
-      "lastSuccess": 1724376835421
+      "total": 119,
+      "success": 119,
+      "last": 1724379645656,
+      "lastSuccess": 1724379645656
     },
     "game-dado.js": {
       "total": 9,
@@ -38838,9 +38995,9 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 140,
+      "total": 141,
       "success": 89,
-      "last": 1724370751155,
+      "last": 1724378665220,
       "lastSuccess": 1724340064738
     },
     "econ-weekly.js": {
