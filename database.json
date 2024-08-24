@@ -47,7 +47,7 @@
       "premiumTime": 0
     },
     "6281241100804@s.whatsapp.net": {
-      "exp": 35717,
+      "exp": 35783,
       "coin": 162,
       "diamond": 19,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3567,
+      "exp": 3599,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -36072,6 +36072,28 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "280096678092822@lid": {
+      "exp": 5,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -40848,10 +40870,10 @@
       "lastSuccess": 1724329650633
     },
     "_cek.js": {
-      "total": 170,
-      "success": 170,
-      "last": 1724475292010,
-      "lastSuccess": 1724475292010
+      "total": 171,
+      "success": 171,
+      "last": 1724475672633,
+      "lastSuccess": 1724475672633
     },
     "game-dado.js": {
       "total": 15,
@@ -41580,10 +41602,10 @@
       "lastSuccess": 1718756408593
     },
     "owner-clearTmp.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1724475310308,
-      "lastSuccess": 1724475310308
+      "total": 5,
+      "success": 5,
+      "last": 1724475682110,
+      "lastSuccess": 1724475682110
     },
     "fun-cekkodam.js": {
       "total": 213,
