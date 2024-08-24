@@ -354,7 +354,7 @@
       "crime": 1724407825685
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 410,
+      "exp": 418,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7563,
+      "exp": 7578,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -4924,7 +4924,7 @@
       "premiumTime": 0
     },
     "6289520639176@s.whatsapp.net": {
-      "exp": 249,
+      "exp": 256,
       "coin": 0,
       "diamond": 64,
       "bank": 0,
@@ -35922,6 +35922,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "Aliyaaa",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6281937342423@s.whatsapp.net": {
+      "exp": 43,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "levina",
       "age": -1,
       "regTime": -1,
       "afk": -1,
