@@ -47,7 +47,7 @@
       "premiumTime": 0
     },
     "6281241100804@s.whatsapp.net": {
-      "exp": 35783,
+      "exp": 36227,
       "coin": 162,
       "diamond": 19,
       "bank": 0,
@@ -11489,7 +11489,7 @@
       "premiumTime": 0
     },
     "6288271624627@s.whatsapp.net": {
-      "exp": 116,
+      "exp": 117,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -19561,7 +19561,7 @@
       "premiumTime": 0
     },
     "628819629063@s.whatsapp.net": {
-      "exp": 728,
+      "exp": 796,
       "coin": 1500,
       "diamond": 68,
       "bank": 8335,
@@ -21054,7 +21054,7 @@
       "premiumTime": 0
     },
     "6282142614946@s.whatsapp.net": {
-      "exp": 2259,
+      "exp": 2289,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35871,7 +35871,7 @@
       "premiumTime": 0
     },
     "628385848829@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 81,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35984,7 +35984,7 @@
       "premiumTime": 0
     },
     "6282384575614@s.whatsapp.net": {
-      "exp": 44,
+      "exp": 66,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36080,6 +36080,29 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6285893975630@s.whatsapp.net": {
+      "exp": 27,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": ".",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -40792,10 +40815,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 356,
-      "success": 345,
-      "last": 1724475308249,
-      "lastSuccess": 1724475308249
+      "total": 358,
+      "success": 347,
+      "last": 1724477447374,
+      "lastSuccess": 1724477447374
     },
     "main-creator.js": {
       "total": 11,
@@ -40858,10 +40881,10 @@
       "lastSuccess": 1719132111639
     },
     "sticker-sticker.js": {
-      "total": 330,
-      "success": 311,
-      "last": 1724423593351,
-      "lastSuccess": 1724423593351
+      "total": 332,
+      "success": 313,
+      "last": 1724478103808,
+      "lastSuccess": 1724478103808
     },
     "owner-exec.js": {
       "total": 20,
@@ -40870,10 +40893,10 @@
       "lastSuccess": 1724329650633
     },
     "_cek.js": {
-      "total": 171,
-      "success": 171,
-      "last": 1724475672633,
-      "lastSuccess": 1724475672633
+      "total": 177,
+      "success": 177,
+      "last": 1724477438860,
+      "lastSuccess": 1724477438860
     },
     "game-dado.js": {
       "total": 15,
@@ -40960,10 +40983,10 @@
       "lastSuccess": 1724327273734
     },
     "av-siapa sih.js": {
-      "total": 108,
-      "success": 108,
-      "last": 1724475237935,
-      "lastSuccess": 1724475237935
+      "total": 109,
+      "success": 109,
+      "last": 1724477423716,
+      "lastSuccess": 1724477423716
     },
     "gp-totag.js": {
       "total": 25,
@@ -41074,9 +41097,9 @@
       "lastSuccess": 0
     },
     "game-tebakkata.js": {
-      "total": 597,
+      "total": 598,
       "success": 569,
-      "last": 1724469931114,
+      "last": 1724477456994,
       "lastSuccess": 1724372019931
     },
     "gp-profile.js": {
@@ -41386,10 +41409,10 @@
       "lastSuccess": 1718795880678
     },
     "main-runtime.js": {
-      "total": 34,
-      "success": 34,
-      "last": 1724423890536,
-      "lastSuccess": 1724423890536
+      "total": 35,
+      "success": 35,
+      "last": 1724477443096,
+      "lastSuccess": 1724477443096
     },
     "game-tictactoe.js": {
       "total": 12,
