@@ -47,7 +47,7 @@
       "premiumTime": 0
     },
     "6281241100804@s.whatsapp.net": {
-      "exp": 35559,
+      "exp": 35717,
       "coin": 162,
       "diamond": 19,
       "bank": 0,
@@ -19561,11 +19561,11 @@
       "premiumTime": 0
     },
     "628819629063@s.whatsapp.net": {
-      "exp": 342,
-      "coin": 0,
+      "exp": 728,
+      "coin": 1500,
       "diamond": 68,
       "bank": 8335,
-      "lastclaim": 1724057288219,
+      "lastclaim": 1724475294300,
       "registered": false,
       "name": "Yuni/Luna",
       "age": -1,
@@ -21510,7 +21510,7 @@
       "lastslot": 1718982657740
     },
     "6285823367736@s.whatsapp.net": {
-      "exp": 715,
+      "exp": 725,
       "coin": -344,
       "diamond": 69,
       "bank": 0,
@@ -22095,7 +22095,7 @@
       "premiumTime": 0
     },
     "120363270328348155@g.us": {
-      "exp": 396,
+      "exp": 422,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22305,7 +22305,7 @@
       "premiumTime": 0
     },
     "6283165275677@s.whatsapp.net": {
-      "exp": 565,
+      "exp": 571,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35756,7 +35756,7 @@
       "premiumTime": 0
     },
     "6281380387070@s.whatsapp.net": {
-      "exp": 486,
+      "exp": 493,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -35825,7 +35825,7 @@
       "premiumTime": 0
     },
     "6285647049661@s.whatsapp.net": {
-      "exp": 266,
+      "exp": 279,
       "coin": 0,
       "diamond": 67,
       "bank": 0,
@@ -35984,13 +35984,80 @@
       "premiumTime": 0
     },
     "6282384575614@s.whatsapp.net": {
-      "exp": 18,
+      "exp": 44,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
       "name": "✨",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6281217091924@s.whatsapp.net": {
+      "exp": 11,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "arraya",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "55744665788545@lid": {
+      "exp": 8,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "91882738724990@lid": {
+      "exp": 5,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -40703,10 +40770,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 352,
-      "success": 341,
-      "last": 1724424759418,
-      "lastSuccess": 1724424759418
+      "total": 356,
+      "success": 345,
+      "last": 1724475308249,
+      "lastSuccess": 1724475308249
     },
     "main-creator.js": {
       "total": 11,
@@ -40781,10 +40848,10 @@
       "lastSuccess": 1724329650633
     },
     "_cek.js": {
-      "total": 166,
-      "success": 166,
-      "last": 1724420307437,
-      "lastSuccess": 1724420307437
+      "total": 170,
+      "success": 170,
+      "last": 1724475292010,
+      "lastSuccess": 1724475292010
     },
     "game-dado.js": {
       "total": 15,
@@ -40871,10 +40938,10 @@
       "lastSuccess": 1724327273734
     },
     "av-siapa sih.js": {
-      "total": 107,
-      "success": 107,
-      "last": 1719131646616,
-      "lastSuccess": 1719131646616
+      "total": 108,
+      "success": 108,
+      "last": 1724475237935,
+      "lastSuccess": 1724475237935
     },
     "gp-totag.js": {
       "total": 25,
@@ -41075,10 +41142,10 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 148,
-      "success": 93,
-      "last": 1724469926960,
-      "lastSuccess": 1724460193453
+      "total": 149,
+      "success": 94,
+      "last": 1724475294300,
+      "lastSuccess": 1724475294300
     },
     "econ-weekly.js": {
       "total": 59,
@@ -41105,10 +41172,10 @@
       "lastSuccess": 1718982865174
     },
     "econ-balance.js": {
-      "total": 600,
-      "success": 600,
-      "last": 1724458137926,
-      "lastSuccess": 1724458137926
+      "total": 602,
+      "success": 602,
+      "last": 1724475304779,
+      "lastSuccess": 1724475304779
     },
     "econ-buy.js": {
       "total": 26,
@@ -41513,10 +41580,10 @@
       "lastSuccess": 1718756408593
     },
     "owner-clearTmp.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1718966247553,
-      "lastSuccess": 1718966247553
+      "total": 4,
+      "success": 4,
+      "last": 1724475310308,
+      "lastSuccess": 1724475310308
     },
     "fun-cekkodam.js": {
       "total": 213,
