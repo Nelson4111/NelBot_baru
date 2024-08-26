@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 18691,
+      "exp": 18698,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1176,
+      "exp": 1182,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1952,7 +1952,7 @@
       "premiumTime": 0
     },
     "6281228746934@s.whatsapp.net": {
-      "exp": 510,
+      "exp": 521,
       "coin": 0,
       "diamond": 67,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 157501,
+      "exp": 157526,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -13189,7 +13189,7 @@
       "premiumTime": 0
     },
     "6288239456850@s.whatsapp.net": {
-      "exp": 1299,
+      "exp": 1325,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23922,7 +23922,7 @@
       "premiumTime": 0
     },
     "6281355645183@s.whatsapp.net": {
-      "exp": 45,
+      "exp": 52,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35802,7 +35802,7 @@
       "premiumTime": 0
     },
     "6281267130833@s.whatsapp.net": {
-      "exp": 377,
+      "exp": 447,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35825,7 +35825,7 @@
       "premiumTime": 0
     },
     "6285647049661@s.whatsapp.net": {
-      "exp": 2024,
+      "exp": 2428,
       "coin": 0,
       "diamond": 67,
       "bank": 0,
@@ -35848,7 +35848,7 @@
       "premiumTime": 0
     },
     "6289626052542@s.whatsapp.net": {
-      "exp": 140,
+      "exp": 176,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35939,7 +35939,7 @@
       "premiumTime": 0
     },
     "6281937342423@s.whatsapp.net": {
-      "exp": 58,
+      "exp": 1284,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36415,13 +36415,59 @@
       "premiumTime": 0
     },
     "6282332888898@s.whatsapp.net": {
-      "exp": 115,
+      "exp": 367,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
       "name": "~",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6281234921845@s.whatsapp.net": {
+      "exp": 9,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "( ✦ꕤଘ๑ꕤ)<3",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "62895700313263@s.whatsapp.net": {
+      "exp": 62,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "mekaa",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -41198,6 +41244,23 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "62895700313263@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
@@ -41268,10 +41331,10 @@
       "lastSuccess": 1719132111639
     },
     "sticker-sticker.js": {
-      "total": 339,
-      "success": 315,
-      "last": 1724490663799,
-      "lastSuccess": 1724490660026
+      "total": 340,
+      "success": 316,
+      "last": 1724687480044,
+      "lastSuccess": 1724687480044
     },
     "owner-exec.js": {
       "total": 20,
@@ -41334,10 +41397,10 @@
       "lastSuccess": 1718874384773
     },
     "gp-hidetag.js": {
-      "total": 77,
-      "success": 74,
-      "last": 1724492347123,
-      "lastSuccess": 1724492347123
+      "total": 81,
+      "success": 78,
+      "last": 1724687316337,
+      "lastSuccess": 1724687316337
     },
     "dl-igstory.js": {
       "total": 5,
@@ -41484,9 +41547,9 @@
       "lastSuccess": 0
     },
     "game-tebakkata.js": {
-      "total": 598,
+      "total": 599,
       "success": 569,
-      "last": 1724477456994,
+      "last": 1724687676985,
       "lastSuccess": 1724372019931
     },
     "gp-profile.js": {
@@ -41502,10 +41565,10 @@
       "lastSuccess": 0
     },
     "gp-settings.js": {
-      "total": 20,
-      "success": 20,
-      "last": 1718975710279,
-      "lastSuccess": 1718975710279
+      "total": 21,
+      "success": 21,
+      "last": 1724685814429,
+      "lastSuccess": 1724685814429
     },
     "bebot-botlist.js": {
       "total": 8,
@@ -41910,10 +41973,10 @@
       "lastSuccess": 1724407881933
     },
     "av-sad.js": {
-      "total": 160,
-      "success": 160,
-      "last": 1724462363575,
-      "lastSuccess": 1724462363575
+      "total": 166,
+      "success": 166,
+      "last": 1724687196576,
+      "lastSuccess": 1724687196576
     },
     "fun-apakah.js": {
       "total": 47,
