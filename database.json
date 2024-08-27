@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1204,
+      "exp": 1222,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33496,
+      "exp": 33501,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1613,
+      "exp": 1615,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 157526,
+      "exp": 157529,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -35779,7 +35779,7 @@
       "premiumTime": 0
     },
     "62895421829384@s.whatsapp.net": {
-      "exp": 66,
+      "exp": 70,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35939,7 +35939,7 @@
       "premiumTime": 0
     },
     "6281937342423@s.whatsapp.net": {
-      "exp": 1329,
+      "exp": 1345,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36534,6 +36534,29 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6285607040286@s.whatsapp.net": {
+      "exp": 31,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "f",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -41327,6 +41350,23 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6285607040286@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
@@ -41397,10 +41437,10 @@
       "lastSuccess": 1719132111639
     },
     "sticker-sticker.js": {
-      "total": 342,
-      "success": 318,
-      "last": 1724731350998,
-      "lastSuccess": 1724731350998
+      "total": 343,
+      "success": 319,
+      "last": 1724737819287,
+      "lastSuccess": 1724737819287
     },
     "owner-exec.js": {
       "total": 20,
