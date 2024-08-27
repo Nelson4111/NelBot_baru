@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1332,
+      "exp": 1342,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 449,
+      "exp": 450,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7797,
+      "exp": 7804,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1308,7 +1308,7 @@
       "premiumTime": 0
     },
     "6285693165953@s.whatsapp.net": {
-      "exp": 3362,
+      "exp": 3371,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -3864,7 +3864,7 @@
       "premiumTime": 0
     },
     "6283898904410@s.whatsapp.net": {
-      "exp": 265,
+      "exp": 307,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 352,
+      "exp": 361,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -41522,10 +41522,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 374,
-      "success": 363,
-      "last": 1724767003141,
-      "lastSuccess": 1724767003141
+      "total": 375,
+      "success": 364,
+      "last": 1724771177988,
+      "lastSuccess": 1724771177988
     },
     "main-creator.js": {
       "total": 11,
@@ -41588,10 +41588,10 @@
       "lastSuccess": 1719132111639
     },
     "sticker-sticker.js": {
-      "total": 345,
-      "success": 321,
-      "last": 1724743260922,
-      "lastSuccess": 1724743260922
+      "total": 346,
+      "success": 322,
+      "last": 1724771169025,
+      "lastSuccess": 1724771169025
     },
     "owner-exec.js": {
       "total": 20,
