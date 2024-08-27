@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 18703,
+      "exp": 18812,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1311,
+      "exp": 1317,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 433,
+      "exp": 449,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33543,
+      "exp": 33553,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -703,7 +703,7 @@
       "premiumTime": 0
     },
     "6281295909429@s.whatsapp.net": {
-      "exp": 374,
+      "exp": 401,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7754,
+      "exp": 7797,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7499,7 +7499,7 @@
       "premiumTime": 0
     },
     "628990668334@s.whatsapp.net": {
-      "exp": 2694,
+      "exp": 2695,
       "coin": 3314,
       "diamond": 69,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 157529,
+      "exp": 157590,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -13902,7 +13902,7 @@
       "premiumTime": 0
     },
     "6281226593958@s.whatsapp.net": {
-      "exp": 334,
+      "exp": 351,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22095,7 +22095,7 @@
       "premiumTime": 0
     },
     "120363270328348155@g.us": {
-      "exp": 470,
+      "exp": 477,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -24334,7 +24334,7 @@
       "premiumTime": 0
     },
     "6285299911860@s.whatsapp.net": {
-      "exp": 393,
+      "exp": 418,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30921,7 +30921,7 @@
       "premiumTime": 0
     },
     "6289612317690@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 36,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33125,7 +33125,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 149,
+      "exp": 153,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36624,6 +36624,73 @@
       "lastclaim": 0,
       "registered": false,
       "name": "S",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "98754199851024@lid": {
+      "exp": 1,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "132474055184462@lid": {
+      "exp": 6,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6281996524123@s.whatsapp.net": {
+      "exp": 8,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "lia",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -41434,14 +41501,31 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6281996524123@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 373,
-      "success": 362,
-      "last": 1724743077875,
-      "lastSuccess": 1724743077875
+      "total": 374,
+      "success": 363,
+      "last": 1724767003141,
+      "lastSuccess": 1724767003141
     },
     "main-creator.js": {
       "total": 11,
@@ -41474,9 +41558,9 @@
       "lastSuccess": 1718757899572
     },
     "enable.js": {
-      "total": 147,
+      "total": 148,
       "success": 129,
-      "last": 1724681604448,
+      "last": 1724766184936,
       "lastSuccess": 1719030863159
     },
     "econ-levelup.js": {
