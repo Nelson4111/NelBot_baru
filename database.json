@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7710,
+      "exp": 7713,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14962,7 +14962,7 @@
       "premiumTime": 0
     },
     "6281936185786@s.whatsapp.net": {
-      "exp": 413,
+      "exp": 461,
       "coin": 6500,
       "diamond": 69,
       "bank": 0,
@@ -18406,11 +18406,11 @@
       "premiumTime": 0
     },
     "62895386008300@s.whatsapp.net": {
-      "exp": 300,
-      "coin": 52,
+      "exp": 444,
+      "coin": 1677,
       "diamond": 69,
       "bank": 4321,
-      "lastclaim": 1724198337740,
+      "lastclaim": 1724732820570,
       "registered": false,
       "name": "Poet.16",
       "age": -1,
@@ -18427,7 +18427,7 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0,
-      "crime": 1724198334151,
+      "crime": 1724732801780,
       "lastmiming": 1724198376274
     },
     "62895334040706@s.whatsapp.net": {
@@ -19562,7 +19562,7 @@
     },
     "628819629063@s.whatsapp.net": {
       "exp": 1014,
-      "coin": 1500,
+      "coin": 1375,
       "diamond": 68,
       "bank": 8335,
       "lastclaim": 1724475294300,
@@ -41331,10 +41331,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 370,
-      "success": 359,
-      "last": 1724719869391,
-      "lastSuccess": 1724719869391
+      "total": 372,
+      "success": 361,
+      "last": 1724732841582,
+      "lastSuccess": 1724732841582
     },
     "main-creator.js": {
       "total": 11,
@@ -41397,10 +41397,10 @@
       "lastSuccess": 1719132111639
     },
     "sticker-sticker.js": {
-      "total": 341,
-      "success": 317,
-      "last": 1724719825400,
-      "lastSuccess": 1724719825400
+      "total": 342,
+      "success": 318,
+      "last": 1724731350998,
+      "lastSuccess": 1724731350998
     },
     "owner-exec.js": {
       "total": 20,
@@ -41703,10 +41703,10 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 155,
-      "success": 96,
-      "last": 1724492117075,
-      "lastSuccess": 1724492116732
+      "total": 156,
+      "success": 97,
+      "last": 1724732820571,
+      "lastSuccess": 1724732820571
     },
     "econ-weekly.js": {
       "total": 63,
@@ -41745,10 +41745,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 216,
-      "success": 150,
-      "last": 1724490707474,
-      "lastSuccess": 1724490707209
+      "total": 220,
+      "success": 151,
+      "last": 1724732837098,
+      "lastSuccess": 1724732801781
     },
     "rg-register.js": {
       "total": 68,
