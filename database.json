@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 18698,
+      "exp": 18703,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1653,7 +1653,7 @@
       "premiumTime": 0
     },
     "6281220836979@s.whatsapp.net": {
-      "exp": 396,
+      "exp": 408,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35802,7 +35802,7 @@
       "premiumTime": 0
     },
     "6281267130833@s.whatsapp.net": {
-      "exp": 463,
+      "exp": 465,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35916,7 +35916,7 @@
       "premiumTime": 0
     },
     "6287845010363@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 35,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36096,7 +36096,7 @@
       "premiumTime": 0
     },
     "6285893975630@s.whatsapp.net": {
-      "exp": 30,
+      "exp": 42,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36484,6 +36484,28 @@
       "premiumTime": 0
     },
     "36426154569840@lid": {
+      "exp": 5,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "30992886685939@lid": {
       "exp": 5,
       "coin": 0,
       "diamond": 69,
