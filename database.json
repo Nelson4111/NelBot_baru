@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1237,
+      "exp": 1267,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -327,8 +327,8 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 2479,
-      "coin": 0,
+      "exp": 2547,
+      "coin": 5001,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 1724407815666,
@@ -348,10 +348,10 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0,
-      "lastmiming": 1724061335914,
-      "weekly": 1724061328295,
+      "lastmiming": 1724753848268,
+      "weekly": 1724753854137,
       "lastslot": 1718725138616,
-      "crime": 1724407825685
+      "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
       "exp": 433,
@@ -515,7 +515,7 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1824,
+      "exp": 1833,
       "coin": 448,
       "diamond": 69,
       "bank": 0,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33527,
+      "exp": 33528,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 269,
+      "exp": 270,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -21391,7 +21391,7 @@
       "premiumTime": 0
     },
     "62881038727987@s.whatsapp.net": {
-      "exp": 15,
+      "exp": 21,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22305,7 +22305,7 @@
       "premiumTime": 0
     },
     "6283165275677@s.whatsapp.net": {
-      "exp": 571,
+      "exp": 597,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23236,7 +23236,7 @@
       "weekly": 1719043952626
     },
     "6285335184155@s.whatsapp.net": {
-      "exp": 486,
+      "exp": 487,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30299,7 +30299,7 @@
       "weekly": 1724064492625
     },
     "6287716300353@s.whatsapp.net": {
-      "exp": 425,
+      "exp": 454,
       "coin": 0,
       "diamond": 69,
       "bank": 15575,
@@ -41793,16 +41793,16 @@
       "lastSuccess": 1724750217649
     },
     "econ-weekly.js": {
-      "total": 65,
-      "success": 42,
-      "last": 1724750287103,
-      "lastSuccess": 1724750255995
+      "total": 66,
+      "success": 43,
+      "last": 1724753854137,
+      "lastSuccess": 1724753854137
     },
     "econ-mine.js": {
-      "total": 165,
-      "success": 103,
-      "last": 1724750251885,
-      "lastSuccess": 1724750251885
+      "total": 166,
+      "success": 104,
+      "last": 1724753848268,
+      "lastSuccess": 1724753848268
     },
     "econ-work.js": {
       "total": 28,
@@ -41829,10 +41829,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 225,
-      "success": 154,
-      "last": 1724750227412,
-      "lastSuccess": 1724750174170
+      "total": 227,
+      "success": 155,
+      "last": 1724753862551,
+      "lastSuccess": 1724753862551
     },
     "rg-register.js": {
       "total": 68,
