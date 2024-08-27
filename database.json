@@ -24,7 +24,7 @@
       "premiumTime": 0
     },
     "6281242432747@s.whatsapp.net": {
-      "exp": 109,
+      "exp": 118,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -515,8 +515,8 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1659,
-      "coin": 683,
+      "exp": 1824,
+      "coin": 448,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 0,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33510,
+      "exp": 33517,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -585,7 +585,7 @@
       "premiumTime": 0
     },
     "6285876974604@s.whatsapp.net": {
-      "exp": 12383,
+      "exp": 12408,
       "coin": 9941,
       "diamond": 67,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3620,
+      "exp": 3627,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 337,
+      "exp": 343,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23211,7 +23211,7 @@
     },
     "6281945384493@s.whatsapp.net": {
       "exp": 1047,
-      "coin": 7221,
+      "coin": 7124,
       "diamond": 67,
       "bank": 0,
       "lastclaim": 1719043868309,
@@ -30325,11 +30325,11 @@
       "lastmiming": 1724460195439
     },
     "6282141150018@s.whatsapp.net": {
-      "exp": 132255,
-      "coin": 4857,
+      "exp": 132320,
+      "coin": 0,
       "diamond": 69,
-      "bank": 10390,
-      "lastclaim": 1724407904239,
+      "bank": 16982,
+      "lastclaim": 1724743454160,
       "registered": true,
       "name": "Nanas",
       "age": 16,
@@ -30348,7 +30348,7 @@
       "premiumTime": 0,
       "weekly": 1724065297009,
       "lastmiming": 1724469916563,
-      "crime": 1724469920187
+      "crime": 1724743457959
     },
     "6281245629886@s.whatsapp.net": {
       "exp": 161,
@@ -30376,11 +30376,11 @@
       "lastmiming": 1724066892178
     },
     "6285834452740@s.whatsapp.net": {
-      "exp": 76499,
-      "coin": -176,
+      "exp": 76570,
+      "coin": 0,
       "diamond": 69,
-      "bank": 12702,
-      "lastclaim": 1724338340483,
+      "bank": 14123,
+      "lastclaim": 1724743098113,
       "registered": true,
       "name": "arun",
       "age": 15,
@@ -30399,7 +30399,7 @@
       "premiumTime": 0,
       "weekly": 1724065644227,
       "lastmiming": 1724413880508,
-      "crime": 1724413889625
+      "crime": 1724743105518
     },
     "213532989755434@lid": {
       "exp": 6,
@@ -41371,10 +41371,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 372,
-      "success": 361,
-      "last": 1724732841582,
-      "lastSuccess": 1724732841582
+      "total": 373,
+      "success": 362,
+      "last": 1724743077875,
+      "lastSuccess": 1724743077875
     },
     "main-creator.js": {
       "total": 11,
@@ -41437,10 +41437,10 @@
       "lastSuccess": 1719132111639
     },
     "sticker-sticker.js": {
-      "total": 343,
-      "success": 319,
-      "last": 1724737819287,
-      "lastSuccess": 1724737819287
+      "total": 345,
+      "success": 321,
+      "last": 1724743260922,
+      "lastSuccess": 1724743260922
     },
     "owner-exec.js": {
       "total": 20,
@@ -41743,10 +41743,10 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 156,
-      "success": 97,
-      "last": 1724732820571,
-      "lastSuccess": 1724732820571
+      "total": 158,
+      "success": 99,
+      "last": 1724743454160,
+      "lastSuccess": 1724743454160
     },
     "econ-weekly.js": {
       "total": 63,
@@ -41785,10 +41785,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 220,
-      "success": 151,
-      "last": 1724732837098,
-      "lastSuccess": 1724732801781
+      "total": 222,
+      "success": 153,
+      "last": 1724743457959,
+      "lastSuccess": 1724743457959
     },
     "rg-register.js": {
       "total": 68,
@@ -41809,10 +41809,10 @@
       "lastSuccess": 1724235467321
     },
     "econ-dep.js": {
-      "total": 163,
-      "success": 149,
-      "last": 1724460210692,
-      "lastSuccess": 1724460210692
+      "total": 165,
+      "success": 151,
+      "last": 1724743467337,
+      "lastSuccess": 1724743467337
     },
     "econ-leaderboard.js": {
       "total": 59,
@@ -41965,10 +41965,10 @@
       "lastSuccess": 1718795880678
     },
     "main-runtime.js": {
-      "total": 37,
-      "success": 37,
-      "last": 1724486673136,
-      "lastSuccess": 1724486673136
+      "total": 40,
+      "success": 40,
+      "last": 1724743227446,
+      "lastSuccess": 1724743227446
     },
     "game-tictactoe.js": {
       "total": 12,
