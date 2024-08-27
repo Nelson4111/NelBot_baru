@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1342,
+      "exp": 1347,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23419,7 +23419,7 @@
       "premiumTime": 0
     },
     "6285771482054@s.whatsapp.net": {
-      "exp": 89,
+      "exp": 134,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36705,6 +36705,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6281320700621@s.whatsapp.net": {
+      "exp": 6,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "wira",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -41518,14 +41541,31 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6281320700621@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 375,
-      "success": 364,
-      "last": 1724771177988,
-      "lastSuccess": 1724771177988
+      "total": 376,
+      "success": 365,
+      "last": 1724774487255,
+      "lastSuccess": 1724774487255
     },
     "main-creator.js": {
       "total": 11,
@@ -41786,9 +41826,9 @@
       "lastSuccess": 1718978331995
     },
     "main-menfes.js": {
-      "total": 31,
+      "total": 32,
       "success": 16,
-      "last": 1724328983077,
+      "last": 1724774510180,
       "lastSuccess": 1724328490496
     },
     "gp-rules.js": {
