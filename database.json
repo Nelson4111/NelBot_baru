@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1608,
+      "exp": 1613,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7652,
+      "exp": 7662,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -4510,7 +4510,7 @@
       "premiumTime": 0
     },
     "6281381685954@s.whatsapp.net": {
-      "exp": 435,
+      "exp": 474,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -11489,7 +11489,7 @@
       "premiumTime": 0
     },
     "6288271624627@s.whatsapp.net": {
-      "exp": 117,
+      "exp": 119,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30966,7 +30966,7 @@
       "premiumTime": 0
     },
     "6283890552538@s.whatsapp.net": {
-      "exp": 134,
+      "exp": 192,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -35939,7 +35939,7 @@
       "premiumTime": 0
     },
     "6281937342423@s.whatsapp.net": {
-      "exp": 1284,
+      "exp": 1329,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36096,7 +36096,7 @@
       "premiumTime": 0
     },
     "6285893975630@s.whatsapp.net": {
-      "exp": 42,
+      "exp": 45,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -41309,10 +41309,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 369,
-      "success": 358,
-      "last": 1724678619762,
-      "lastSuccess": 1724678619762
+      "total": 370,
+      "success": 359,
+      "last": 1724719869391,
+      "lastSuccess": 1724719869391
     },
     "main-creator.js": {
       "total": 11,
@@ -41375,10 +41375,10 @@
       "lastSuccess": 1719132111639
     },
     "sticker-sticker.js": {
-      "total": 340,
-      "success": 316,
-      "last": 1724687480044,
-      "lastSuccess": 1724687480044
+      "total": 341,
+      "success": 317,
+      "last": 1724719825400,
+      "lastSuccess": 1724719825400
     },
     "owner-exec.js": {
       "total": 20,
@@ -41435,9 +41435,9 @@
       "lastSuccess": 1718969611624
     },
     "dl-instagram.js": {
-      "total": 26,
+      "total": 28,
       "success": 22,
-      "last": 1719110668262,
+      "last": 1724717361201,
       "lastSuccess": 1718874384773
     },
     "gp-hidetag.js": {
