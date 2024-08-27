@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1222,
+      "exp": 1237,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33517,
+      "exp": 33527,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -18406,7 +18406,7 @@
       "premiumTime": 0
     },
     "62895386008300@s.whatsapp.net": {
-      "exp": 444,
+      "exp": 462,
       "coin": 1677,
       "diamond": 69,
       "bank": 4321,
@@ -36571,6 +36571,28 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "188604898881690@lid": {
+      "exp": 9,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -41743,9 +41765,9 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 158,
+      "total": 159,
       "success": 99,
-      "last": 1724743454160,
+      "last": 1724747387567,
       "lastSuccess": 1724743454160
     },
     "econ-weekly.js": {
