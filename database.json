@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33607,
+      "exp": 33653,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1620,
+      "exp": 1629,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 7920,
+      "exp": 7955,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3649,
+      "exp": 3656,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1382137,
+      "exp": 1382160,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -1123,7 +1123,7 @@
       "shipping": 1718795637479
     },
     "6285694615707@s.whatsapp.net": {
-      "exp": 3376,
+      "exp": 3402,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 157620,
+      "exp": 157640,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -7780,7 +7780,7 @@
       "premiumTime": 0
     },
     "6283141127932@s.whatsapp.net": {
-      "exp": 219,
+      "exp": 226,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -10545,7 +10545,7 @@
       "premiumTime": 0
     },
     "6281333807411@s.whatsapp.net": {
-      "exp": 235,
+      "exp": 241,
       "coin": 481,
       "diamond": 69,
       "bank": 0,
@@ -33125,7 +33125,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 153,
+      "exp": 165,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36825,6 +36825,29 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6282236979608@s.whatsapp.net": {
+      "exp": 6,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "alipkun",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -42164,10 +42187,10 @@
       "lastSuccess": 1718765103633
     },
     "av-Panik.js": {
-      "total": 118,
-      "success": 118,
-      "last": 1724486871213,
-      "lastSuccess": 1724486871213
+      "total": 119,
+      "success": 119,
+      "last": 1724845016037,
+      "lastSuccess": 1724845016037
     },
     "bebot-stopbot.js": {
       "total": 18,
