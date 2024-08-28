@@ -10360,7 +10360,7 @@
       "premiumTime": 0
     },
     "6281554663801@s.whatsapp.net": {
-      "exp": 253,
+      "exp": 259,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30299,10 +30299,10 @@
       "weekly": 1724064492625
     },
     "6287716300353@s.whatsapp.net": {
-      "exp": 454,
+      "exp": 545,
       "coin": 0,
       "diamond": 69,
-      "bank": 15575,
+      "bank": 15709,
       "lastclaim": 1724750217649,
       "registered": false,
       "name": "nana",
@@ -30322,7 +30322,7 @@
       "premiumTime": 0,
       "crime": 1724750174170,
       "weekly": 1724750255995,
-      "lastmiming": 1724750251885
+      "lastmiming": 1724801443601
     },
     "6282141150018@s.whatsapp.net": {
       "exp": 132320,
@@ -36617,7 +36617,7 @@
       "premiumTime": 0
     },
     "6288994173802@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 5,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36752,6 +36752,28 @@
       "premiumTime": 0
     },
     "61998389792980@lid": {
+      "exp": 10,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "90409095159873@lid": {
       "exp": 10,
       "coin": 0,
       "diamond": 69,
@@ -41602,6 +41624,23 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6288994173802@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
@@ -41978,9 +42017,9 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 160,
+      "total": 161,
       "success": 100,
-      "last": 1724750217649,
+      "last": 1724801439731,
       "lastSuccess": 1724750217649
     },
     "econ-weekly.js": {
@@ -41990,10 +42029,10 @@
       "lastSuccess": 1724753854137
     },
     "econ-mine.js": {
-      "total": 166,
-      "success": 104,
-      "last": 1724753848268,
-      "lastSuccess": 1724753848268
+      "total": 167,
+      "success": 105,
+      "last": 1724801443601,
+      "lastSuccess": 1724801443601
     },
     "econ-work.js": {
       "total": 28,
@@ -42008,10 +42047,10 @@
       "lastSuccess": 1718982865174
     },
     "econ-balance.js": {
-      "total": 610,
-      "success": 610,
-      "last": 1724490706508,
-      "lastSuccess": 1724490706508
+      "total": 611,
+      "success": 611,
+      "last": 1724801458848,
+      "lastSuccess": 1724801458848
     },
     "econ-buy.js": {
       "total": 26,
@@ -42044,10 +42083,10 @@
       "lastSuccess": 1724235467321
     },
     "econ-dep.js": {
-      "total": 166,
-      "success": 152,
-      "last": 1724750293863,
-      "lastSuccess": 1724750293863
+      "total": 167,
+      "success": 153,
+      "last": 1724801454011,
+      "lastSuccess": 1724801454011
     },
     "econ-leaderboard.js": {
       "total": 59,
