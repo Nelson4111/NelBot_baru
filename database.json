@@ -24,7 +24,7 @@
       "premiumTime": 0
     },
     "6281242432747@s.whatsapp.net": {
-      "exp": 118,
+      "exp": 124,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -515,7 +515,7 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1833,
+      "exp": 1861,
       "coin": 448,
       "diamond": 69,
       "bank": 0,
@@ -10545,7 +10545,7 @@
       "premiumTime": 0
     },
     "6281333807411@s.whatsapp.net": {
-      "exp": 217,
+      "exp": 235,
       "coin": 481,
       "diamond": 69,
       "bank": 0,
@@ -10566,7 +10566,7 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0,
-      "crime": 1724064879067
+      "crime": 1724827888616
     },
     "6285860239140@s.whatsapp.net": {
       "exp": 5,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 279,
+      "exp": 285,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 368,
+      "exp": 376,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14706,7 +14706,7 @@
       "premiumTime": 0
     },
     "6281524794615@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 22,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -42082,10 +42082,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 227,
-      "success": 155,
-      "last": 1724753862551,
-      "lastSuccess": 1724753862551
+      "total": 228,
+      "success": 156,
+      "last": 1724827888616,
+      "lastSuccess": 1724827888616
     },
     "rg-register.js": {
       "total": 68,
@@ -42262,10 +42262,10 @@
       "lastSuccess": 1718795880678
     },
     "main-runtime.js": {
-      "total": 41,
-      "success": 41,
-      "last": 1724750199031,
-      "lastSuccess": 1724750199031
+      "total": 42,
+      "success": 42,
+      "last": 1724827859641,
+      "lastSuccess": 1724827859641
     },
     "game-tictactoe.js": {
       "total": 12,
