@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 453,
+      "exp": 461,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1653,7 +1653,7 @@
       "premiumTime": 0
     },
     "6281220836979@s.whatsapp.net": {
-      "exp": 435,
+      "exp": 444,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -15627,7 +15627,7 @@
       "premiumTime": 0
     },
     "6287786993664@s.whatsapp.net": {
-      "exp": 133,
+      "exp": 156,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36862,6 +36862,51 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6285767472669@s.whatsapp.net": {
+      "exp": 47,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "46171385004112@lid": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -41709,14 +41754,31 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6285767472669@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 379,
-      "success": 368,
-      "last": 1724834973432,
-      "lastSuccess": 1724834973432
+      "total": 380,
+      "success": 369,
+      "last": 1724851387925,
+      "lastSuccess": 1724851387925
     },
     "main-creator.js": {
       "total": 11,
@@ -42421,10 +42483,10 @@
       "lastSuccess": 1724407881933
     },
     "av-sad.js": {
-      "total": 168,
-      "success": 168,
-      "last": 1724848358085,
-      "lastSuccess": 1724848358085
+      "total": 169,
+      "success": 169,
+      "last": 1724850907186,
+      "lastSuccess": 1724850907186
     },
     "fun-apakah.js": {
       "total": 47,
