@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 18845,
+      "exp": 18864,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1355,
+      "exp": 1372,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1745,7 +1745,7 @@
       "premiumTime": 0
     },
     "601124305675@s.whatsapp.net": {
-      "exp": 969,
+      "exp": 999,
       "coin": 6385,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 361,
+      "exp": 368,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36794,6 +36794,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6285171705433@s.whatsapp.net": {
+      "exp": 9,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 851-7170-5433",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -41645,10 +41668,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 377,
-      "success": 366,
-      "last": 1724798864412,
-      "lastSuccess": 1724798864412
+      "total": 378,
+      "success": 367,
+      "last": 1724822278813,
+      "lastSuccess": 1724822278813
     },
     "main-creator.js": {
       "total": 11,
