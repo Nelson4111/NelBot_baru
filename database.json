@@ -327,7 +327,7 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 2574,
+      "exp": 2589,
       "coin": 5001,
       "diamond": 69,
       "bank": 0,
@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 482,
+      "exp": 483,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -3864,7 +3864,7 @@
       "premiumTime": 0
     },
     "6283898904410@s.whatsapp.net": {
-      "exp": 330,
+      "exp": 357,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13421,7 +13421,7 @@
       "premiumTime": 0
     },
     "6285706655646@s.whatsapp.net": {
-      "exp": 430,
+      "exp": 435,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -21054,7 +21054,7 @@
       "premiumTime": 0
     },
     "6282142614946@s.whatsapp.net": {
-      "exp": 2429,
+      "exp": 2438,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36975,6 +36975,51 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "628998725963@s.whatsapp.net": {
+      "exp": 13,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "𝙺",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "237293117943914@lid": {
+      "exp": 1,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -41860,10 +41905,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 381,
-      "success": 370,
-      "last": 1724853996357,
-      "lastSuccess": 1724853996357
+      "total": 382,
+      "success": 371,
+      "last": 1724910003543,
+      "lastSuccess": 1724910003543
     },
     "main-creator.js": {
       "total": 11,
