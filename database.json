@@ -24,7 +24,7 @@
       "premiumTime": 0
     },
     "6281242432747@s.whatsapp.net": {
-      "exp": 124,
+      "exp": 131,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -42955,6 +42955,23 @@
       "rules": ""
     },
     "6283857261876@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    },
+    "6281515881647@s.whatsapp.net": {
       "isBanned": false,
       "welcome": false,
       "detect": false,
