@@ -515,7 +515,7 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1922,
+      "exp": 1931,
       "coin": 448,
       "diamond": 69,
       "bank": 0,
@@ -772,7 +772,7 @@
       "premiumTime": 0
     },
     "6281545547100@s.whatsapp.net": {
-      "exp": 8268,
+      "exp": 8323,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3715,
+      "exp": 3718,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1123,7 +1123,7 @@
       "shipping": 1718795637479
     },
     "6285694615707@s.whatsapp.net": {
-      "exp": 3456,
+      "exp": 3477,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 157897,
+      "exp": 157914,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -13902,7 +13902,7 @@
       "premiumTime": 0
     },
     "6281226593958@s.whatsapp.net": {
-      "exp": 686,
+      "exp": 713,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33125,7 +33125,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 284,
+      "exp": 317,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -37876,6 +37876,52 @@
       "lastclaim": 0,
       "registered": false,
       "name": "Dark Lord",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "250211926556780@lid": {
+      "exp": 5,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "techaga107",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "168650631823447@lid": {
+      "exp": 8,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Shirazumi",
       "age": -1,
       "regTime": -1,
       "afk": -1,
