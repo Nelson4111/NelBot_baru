@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 19716,
+      "exp": 19747,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -772,7 +772,7 @@
       "premiumTime": 0
     },
     "6281545547100@s.whatsapp.net": {
-      "exp": 8325,
+      "exp": 8335,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1382746,
+      "exp": 1382804,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -12822,7 +12822,7 @@
       "premiumTime": 0
     },
     "6285641042210@s.whatsapp.net": {
-      "exp": 186,
+      "exp": 196,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 415,
+      "exp": 424,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14569,7 +14569,7 @@
       "premiumTime": 0
     },
     "6281290598955@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 23,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22095,7 +22095,7 @@
       "premiumTime": 0
     },
     "120363270328348155@g.us": {
-      "exp": 495,
+      "exp": 497,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33125,7 +33125,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 317,
+      "exp": 323,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -37968,6 +37968,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "_Promkes",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "10990989091046@lid": {
+      "exp": 1,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Sumantri Wahyu P",
       "age": -1,
       "regTime": -1,
       "afk": -1,
