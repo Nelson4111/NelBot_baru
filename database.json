@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 529,
+      "exp": 536,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3722,
+      "exp": 3742,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -13902,7 +13902,7 @@
       "premiumTime": 0
     },
     "6281226593958@s.whatsapp.net": {
-      "exp": 715,
+      "exp": 734,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14064,7 +14064,7 @@
       "lastmiming": 1711987514491
     },
     "6285801390672@s.whatsapp.net": {
-      "exp": 18,
+      "exp": 45,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33125,7 +33125,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 332,
+      "exp": 340,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38013,6 +38013,29 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "137443332333692@lid": {
+      "exp": 2,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "hnaa.",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -42995,10 +43018,10 @@
       "lastSuccess": 1724933139556
     },
     "sticker-sticker.js": {
-      "total": 355,
-      "success": 331,
-      "last": 1725010195889,
-      "lastSuccess": 1725010195889
+      "total": 356,
+      "success": 332,
+      "last": 1725030047891,
+      "lastSuccess": 1725030047891
     },
     "owner-exec.js": {
       "total": 20,
