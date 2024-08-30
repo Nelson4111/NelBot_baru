@@ -515,7 +515,7 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1931,
+      "exp": 1959,
       "coin": 448,
       "diamond": 69,
       "bank": 0,
@@ -585,7 +585,7 @@
       "premiumTime": 0
     },
     "6285876974604@s.whatsapp.net": {
-      "exp": 12413,
+      "exp": 12447,
       "coin": 9941,
       "diamond": 67,
       "bank": 0,
@@ -772,7 +772,7 @@
       "premiumTime": 0
     },
     "6281545547100@s.whatsapp.net": {
-      "exp": 8323,
+      "exp": 8325,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8154,
+      "exp": 8156,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -887,7 +887,7 @@
       "premiumTime": 0
     },
     "6283199280461@s.whatsapp.net": {
-      "exp": 1102,
+      "exp": 1104,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1952,7 +1952,7 @@
       "premiumTime": 0
     },
     "6281228746934@s.whatsapp.net": {
-      "exp": 583,
+      "exp": 597,
       "coin": 0,
       "diamond": 67,
       "bank": 0,
@@ -7154,7 +7154,7 @@
       "premiumTime": 0
     },
     "6283821458700@s.whatsapp.net": {
-      "exp": 316,
+      "exp": 324,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -37936,6 +37936,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6285750095488@s.whatsapp.net": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 857-5009-5488",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -42838,10 +42861,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 385,
-      "success": 374,
-      "last": 1725010312586,
-      "lastSuccess": 1725010312586
+      "total": 386,
+      "success": 375,
+      "last": 1725017320084,
+      "lastSuccess": 1725017320084
     },
     "main-creator.js": {
       "total": 11,
@@ -43432,10 +43455,10 @@
       "lastSuccess": 1718795880678
     },
     "main-runtime.js": {
-      "total": 42,
-      "success": 42,
-      "last": 1724827859641,
-      "lastSuccess": 1724827859641
+      "total": 43,
+      "success": 43,
+      "last": 1725018212954,
+      "lastSuccess": 1725018212954
     },
     "game-tictactoe.js": {
       "total": 12,
