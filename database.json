@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8112,
+      "exp": 8154,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -21391,7 +21391,7 @@
       "premiumTime": 0
     },
     "62881038727987@s.whatsapp.net": {
-      "exp": 21,
+      "exp": 29,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36841,7 +36841,7 @@
       "premiumTime": 0
     },
     "6282236979608@s.whatsapp.net": {
-      "exp": 64,
+      "exp": 70,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -37188,6 +37188,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "+62 831-2444-2608",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6281252620035@s.whatsapp.net": {
+      "exp": 9,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Shanny",
       "age": -1,
       "regTime": -1,
       "afk": -1,
