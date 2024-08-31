@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33653,
+      "exp": 33668,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3742,
+      "exp": 3743,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -16179,7 +16179,7 @@
       "premiumTime": 0
     },
     "6281329618520@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 38,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30274,7 +30274,7 @@
       "crime": 1724058925880
     },
     "6287891477690@s.whatsapp.net": {
-      "exp": 286,
+      "exp": 292,
       "coin": 4585,
       "diamond": 69,
       "bank": 0,
@@ -43018,6 +43018,23 @@
       "rules": ""
     },
     "6281515881647@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    },
+    "6281329618520@s.whatsapp.net": {
       "isBanned": false,
       "welcome": false,
       "detect": false,
