@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 545,
+      "exp": 549,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33668,
+      "exp": 33684,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1659,
+      "exp": 1669,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8232,
+      "exp": 8323,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1382883,
+      "exp": 1382938,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -1123,7 +1123,7 @@
       "shipping": 1718795637479
     },
     "6285694615707@s.whatsapp.net": {
-      "exp": 3494,
+      "exp": 3546,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 157953,
+      "exp": 158076,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 454,
+      "exp": 457,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14962,7 +14962,7 @@
       "premiumTime": 0
     },
     "6281936185786@s.whatsapp.net": {
-      "exp": 498,
+      "exp": 507,
       "coin": 6500,
       "diamond": 69,
       "bank": 0,
@@ -16248,7 +16248,7 @@
       "premiumTime": 0
     },
     "6285158544415@s.whatsapp.net": {
-      "exp": 116,
+      "exp": 126,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33125,7 +33125,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 372,
+      "exp": 388,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38240,6 +38240,29 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "243967245451284@lid": {
+      "exp": 17,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Grizzly",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -43664,10 +43687,10 @@
       "lastSuccess": 1718765103633
     },
     "av-Panik.js": {
-      "total": 120,
-      "success": 120,
-      "last": 1724971243064,
-      "lastSuccess": 1724971243064
+      "total": 121,
+      "success": 121,
+      "last": 1725108371329,
+      "lastSuccess": 1725108371329
     },
     "bebot-stopbot.js": {
       "total": 18,
