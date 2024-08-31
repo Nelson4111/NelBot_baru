@@ -1653,7 +1653,7 @@
       "premiumTime": 0
     },
     "6281220836979@s.whatsapp.net": {
-      "exp": 460,
+      "exp": 463,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -10291,7 +10291,7 @@
       "premiumTime": 0
     },
     "6281915228800@s.whatsapp.net": {
-      "exp": 19,
+      "exp": 23,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -10300,8 +10300,8 @@
       "name": "Yusuf Official",
       "age": -1,
       "regTime": -1,
-      "afk": 1711537554874,
-      "afkReason": "makan mie instan",
+      "afk": -1,
+      "afkReason": "",
       "banned": false,
       "warn": 0,
       "level": 0,
@@ -37823,7 +37823,7 @@
       "premiumTime": 0
     },
     "102323384770743@lid": {
-      "exp": 10,
+      "exp": 17,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
