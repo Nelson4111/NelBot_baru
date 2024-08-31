@@ -585,7 +585,7 @@
       "premiumTime": 0
     },
     "6285876974604@s.whatsapp.net": {
-      "exp": 12456,
+      "exp": 12478,
       "coin": 9941,
       "diamond": 67,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8224,
+      "exp": 8232,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7338,7 +7338,7 @@
       "premiumTime": 0
     },
     "6287890914201@s.whatsapp.net": {
-      "exp": 795,
+      "exp": 985,
       "coin": 0,
       "diamond": 56,
       "bank": 0,
@@ -10176,7 +10176,7 @@
       "premiumTime": 0
     },
     "6289516214576@s.whatsapp.net": {
-      "exp": 102,
+      "exp": 110,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30274,7 +30274,7 @@
       "crime": 1724058925880
     },
     "6287891477690@s.whatsapp.net": {
-      "exp": 299,
+      "exp": 306,
       "coin": 4585,
       "diamond": 69,
       "bank": 0,
@@ -30424,7 +30424,7 @@
       "premiumTime": 0
     },
     "6289503310542@s.whatsapp.net": {
-      "exp": 126,
+      "exp": 131,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38141,6 +38141,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6287777847021@s.whatsapp.net": {
+      "exp": 3,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "𝐒𝐮𝐧𝐚",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -43077,10 +43100,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 386,
-      "success": 375,
-      "last": 1725017320084,
-      "lastSuccess": 1725017320084
+      "total": 389,
+      "success": 378,
+      "last": 1725079620533,
+      "lastSuccess": 1725079620533
     },
     "main-creator.js": {
       "total": 11,
@@ -43131,10 +43154,10 @@
       "lastSuccess": 1719028508828
     },
     "bebot-bebot.js": {
-      "total": 99,
-      "success": 71,
-      "last": 1724490086751,
-      "lastSuccess": 1724490082711
+      "total": 100,
+      "success": 72,
+      "last": 1725079742133,
+      "lastSuccess": 1725079742133
     },
     "gp-kick.js": {
       "total": 30,
@@ -43155,10 +43178,10 @@
       "lastSuccess": 1724329650633
     },
     "_cek.js": {
-      "total": 224,
-      "success": 224,
-      "last": 1725010307644,
-      "lastSuccess": 1725010307644
+      "total": 228,
+      "success": 228,
+      "last": 1725079747359,
+      "lastSuccess": 1725079747359
     },
     "game-dado.js": {
       "total": 15,
@@ -43689,10 +43712,10 @@
       "lastSuccess": 1724219038248
     },
     "fun-iqtest.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1724424375754,
-      "lastSuccess": 1724424375754
+      "total": 27,
+      "success": 27,
+      "last": 1725079651200,
+      "lastSuccess": 1725079651200
     },
     "sticker-ttp.js": {
       "total": 2,
