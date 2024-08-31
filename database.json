@@ -13212,7 +13212,7 @@
       "premiumTime": 0
     },
     "6285233276535@s.whatsapp.net": {
-      "exp": 50,
+      "exp": 56,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 424,
+      "exp": 434,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -15627,7 +15627,7 @@
       "premiumTime": 0
     },
     "6287786993664@s.whatsapp.net": {
-      "exp": 176,
+      "exp": 177,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30274,7 +30274,7 @@
       "crime": 1724058925880
     },
     "6287891477690@s.whatsapp.net": {
-      "exp": 306,
+      "exp": 309,
       "coin": 4585,
       "diamond": 69,
       "bank": 0,
@@ -30351,7 +30351,7 @@
       "crime": 1724743457959
     },
     "6281245629886@s.whatsapp.net": {
-      "exp": 161,
+      "exp": 175,
       "coin": 2785,
       "diamond": 69,
       "bank": 0,
@@ -38173,6 +38173,28 @@
       "lastclaim": 0,
       "registered": false,
       "name": "(栄光 大安 朋恵)",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "102924646637785@lid": {
+      "exp": 1,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "afk": -1,
