@@ -634,7 +634,7 @@
       "premiumTime": 0
     },
     "6285299402730@s.whatsapp.net": {
-      "exp": 80,
+      "exp": 90,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8202,
+      "exp": 8216,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -3059,7 +3059,7 @@
       "premiumTime": 0
     },
     "6283867514317@s.whatsapp.net": {
-      "exp": 359,
+      "exp": 364,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -6326,7 +6326,7 @@
       "premiumTime": 0
     },
     "6281221951007@s.whatsapp.net": {
-      "exp": 377,
+      "exp": 388,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -16293,7 +16293,7 @@
       "premiumTime": 0
     },
     "207519951642673@lid": {
-      "exp": 27,
+      "exp": 28,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -16362,7 +16362,7 @@
       "premiumTime": 0
     },
     "6281231858169@s.whatsapp.net": {
-      "exp": 78,
+      "exp": 82,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -20069,7 +20069,7 @@
       "premiumTime": 0
     },
     "80604121018565@lid": {
-      "exp": 15,
+      "exp": 24,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38081,6 +38081,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "+62 857-8028-4192",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "194454745022471@lid": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "~Karl Fdzl~",
       "age": -1,
       "regTime": -1,
       "afk": -1,
