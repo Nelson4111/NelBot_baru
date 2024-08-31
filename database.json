@@ -515,7 +515,7 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1992,
+      "exp": 1995,
       "coin": 448,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3755,
+      "exp": 3788,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383194,
+      "exp": 1383197,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 291,
+      "exp": 313,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -43259,10 +43259,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 391,
-      "success": 380,
-      "last": 1725109462310,
-      "lastSuccess": 1725109462310
+      "total": 392,
+      "success": 381,
+      "last": 1725120210287,
+      "lastSuccess": 1725120210287
     },
     "main-creator.js": {
       "total": 11,
