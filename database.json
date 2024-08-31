@@ -327,7 +327,7 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 2777,
+      "exp": 2781,
       "coin": 5001,
       "diamond": 69,
       "bank": 0,
@@ -1446,7 +1446,7 @@
       "premiumTime": 0
     },
     "62895375740523@s.whatsapp.net": {
-      "exp": 2372,
+      "exp": 2395,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7684,7 +7684,7 @@
       "premiumTime": 0
     },
     "6285696048010@s.whatsapp.net": {
-      "exp": 73,
+      "exp": 85,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 157934,
+      "exp": 157940,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 285,
+      "exp": 291,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 434,
+      "exp": 445,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -16385,7 +16385,7 @@
       "premiumTime": 0
     },
     "6289516185519@s.whatsapp.net": {
-      "exp": 274,
+      "exp": 281,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -18684,7 +18684,7 @@
       "premiumTime": 0
     },
     "6287889294754@s.whatsapp.net": {
-      "exp": 11067,
+      "exp": 11074,
       "coin": 1834,
       "diamond": 69,
       "bank": 13164,
@@ -33125,7 +33125,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 340,
+      "exp": 372,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36932,7 +36932,7 @@
       "premiumTime": 0
     },
     "6285855055334@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 18,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38195,6 +38195,29 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "96065818742959@lid": {
+      "exp": 2,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Qaisara G.At",
       "age": -1,
       "regTime": -1,
       "afk": -1,
