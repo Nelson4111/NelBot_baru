@@ -1308,7 +1308,7 @@
       "premiumTime": 0
     },
     "6285693165953@s.whatsapp.net": {
-      "exp": 3371,
+      "exp": 3388,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1446,7 +1446,7 @@
       "premiumTime": 0
     },
     "62895375740523@s.whatsapp.net": {
-      "exp": 2367,
+      "exp": 2372,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -17647,7 +17647,7 @@
       "premiumTime": 0
     },
     "6289654766010@s.whatsapp.net": {
-      "exp": 89,
+      "exp": 99,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -24265,7 +24265,7 @@
       "premiumTime": 0
     },
     "15023795605759@lid": {
-      "exp": 24,
+      "exp": 32,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -37136,7 +37136,7 @@
       "premiumTime": 0
     },
     "628123483335@s.whatsapp.net": {
-      "exp": 29,
+      "exp": 40,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38150,6 +38150,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "𝐒𝐮𝐧𝐚",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "131559227191545@lid": {
+      "exp": 7,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "(栄光 大安 朋恵)",
       "age": -1,
       "regTime": -1,
       "afk": -1,
