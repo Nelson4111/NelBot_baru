@@ -47,7 +47,7 @@
       "premiumTime": 0
     },
     "6281241100804@s.whatsapp.net": {
-      "exp": 36863,
+      "exp": 36871,
       "coin": 162,
       "diamond": 19,
       "bank": 0,
@@ -23991,7 +23991,7 @@
       "premiumTime": 0
     },
     "628871097512@s.whatsapp.net": {
-      "exp": 235,
+      "exp": 240,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36843,7 +36843,7 @@
       "premiumTime": 0
     },
     "6282236979608@s.whatsapp.net": {
-      "exp": 70,
+      "exp": 71,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -37666,7 +37666,7 @@
       "premiumTime": 0
     },
     "221371338645547@lid": {
-      "exp": 9,
+      "exp": 18,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -40195,6 +40195,51 @@
       "lastclaim": 0,
       "registered": false,
       "name": "GreatVel",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "215500470640841@lid": {
+      "exp": 8,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "166945529806906@lid": {
+      "exp": 1,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Agus Kurnia Prakoso",
       "age": -1,
       "regTime": -1,
       "afk": -1,
