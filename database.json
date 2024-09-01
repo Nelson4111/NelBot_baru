@@ -377,7 +377,7 @@
       "premiumTime": 0
     },
     "6288289642076@s.whatsapp.net": {
-      "exp": 15561,
+      "exp": 15562,
       "coin": 4246,
       "diamond": 69,
       "bank": 0,
@@ -585,7 +585,7 @@
       "premiumTime": 0
     },
     "6285876974604@s.whatsapp.net": {
-      "exp": 12500,
+      "exp": 12514,
       "coin": 9941,
       "diamond": 67,
       "bank": 0,
@@ -1653,7 +1653,7 @@
       "premiumTime": 0
     },
     "6281220836979@s.whatsapp.net": {
-      "exp": 463,
+      "exp": 487,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 323,
+      "exp": 334,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 466,
+      "exp": 474,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14962,7 +14962,7 @@
       "premiumTime": 0
     },
     "6281936185786@s.whatsapp.net": {
-      "exp": 510,
+      "exp": 535,
       "coin": 6500,
       "diamond": 69,
       "bank": 0,
@@ -16248,7 +16248,7 @@
       "premiumTime": 0
     },
     "6285158544415@s.whatsapp.net": {
-      "exp": 155,
+      "exp": 191,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38258,7 +38258,7 @@
       "premiumTime": 0
     },
     "243967245451284@lid": {
-      "exp": 17,
+      "exp": 25,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -40399,6 +40399,52 @@
       "bank": 0,
       "lastclaim": 0,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6285655290289@s.whatsapp.net": {
+      "exp": 8,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "hmzet",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "188326296482045@lid": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "didi",
       "age": -1,
       "regTime": -1,
       "afk": -1,
