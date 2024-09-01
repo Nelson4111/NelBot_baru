@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 20368,
+      "exp": 20389,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -703,7 +703,7 @@
       "premiumTime": 0
     },
     "6281295909429@s.whatsapp.net": {
-      "exp": 492,
+      "exp": 493,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8481,
+      "exp": 8504,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7684,7 +7684,7 @@
       "premiumTime": 0
     },
     "6285696048010@s.whatsapp.net": {
-      "exp": 85,
+      "exp": 118,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -10360,7 +10360,7 @@
       "premiumTime": 0
     },
     "6281554663801@s.whatsapp.net": {
-      "exp": 303,
+      "exp": 343,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13902,7 +13902,7 @@
       "premiumTime": 0
     },
     "6281226593958@s.whatsapp.net": {
-      "exp": 1003,
+      "exp": 1020,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -16248,7 +16248,7 @@
       "premiumTime": 0
     },
     "6285158544415@s.whatsapp.net": {
-      "exp": 130,
+      "exp": 155,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -18684,7 +18684,7 @@
       "premiumTime": 0
     },
     "6287889294754@s.whatsapp.net": {
-      "exp": 11141,
+      "exp": 11145,
       "coin": 1834,
       "diamond": 69,
       "bank": 13164,
@@ -19931,7 +19931,7 @@
       "premiumTime": 0
     },
     "257775498186914@lid": {
-      "exp": 12,
+      "exp": 19,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -37275,7 +37275,7 @@
       "premiumTime": 0
     },
     "55538339557437@lid": {
-      "exp": 16,
+      "exp": 24,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -40309,6 +40309,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "chel",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "49864989769745@lid": {
+      "exp": 9,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "ファリス",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -46051,9 +46074,9 @@
       "lastSuccess": 0
     },
     "game-tebakkata.js": {
-      "total": 599,
+      "total": 600,
       "success": 569,
-      "last": 1724687676985,
+      "last": 1725182578474,
       "lastSuccess": 1724372019931
     },
     "gp-profile.js": {
