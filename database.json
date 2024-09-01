@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 20456,
+      "exp": 20470,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -772,7 +772,7 @@
       "premiumTime": 0
     },
     "6281545547100@s.whatsapp.net": {
-      "exp": 8346,
+      "exp": 8371,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -887,7 +887,7 @@
       "premiumTime": 0
     },
     "6283199280461@s.whatsapp.net": {
-      "exp": 1126,
+      "exp": 1136,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -7499,7 +7499,7 @@
       "premiumTime": 0
     },
     "628990668334@s.whatsapp.net": {
-      "exp": 2716,
+      "exp": 2751,
       "coin": 3314,
       "diamond": 69,
       "bank": 0,
@@ -14962,7 +14962,7 @@
       "premiumTime": 0
     },
     "6281936185786@s.whatsapp.net": {
-      "exp": 535,
+      "exp": 553,
       "coin": 6500,
       "diamond": 69,
       "bank": 0,
@@ -16248,7 +16248,7 @@
       "premiumTime": 0
     },
     "6285158544415@s.whatsapp.net": {
-      "exp": 191,
+      "exp": 203,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23579,7 +23579,7 @@
       "premiumTime": 0
     },
     "272623099478135@lid": {
-      "exp": 17,
+      "exp": 22,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38168,7 +38168,7 @@
       "premiumTime": 0
     },
     "131559227191545@lid": {
-      "exp": 14,
+      "exp": 19,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -40438,7 +40438,7 @@
       "premiumTime": 0
     },
     "188326296482045@lid": {
-      "exp": 4,
+      "exp": 10,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -45905,10 +45905,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 403,
-      "success": 392,
-      "last": 1725166306691,
-      "lastSuccess": 1725166306691
+      "total": 404,
+      "success": 393,
+      "last": 1725195852613,
+      "lastSuccess": 1725195852613
     },
     "main-creator.js": {
       "total": 11,
