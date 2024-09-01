@@ -75,7 +75,7 @@
       "lastslot": 1718724370184
     },
     "6285815653469@s.whatsapp.net": {
-      "exp": 511,
+      "exp": 575,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1512,
+      "exp": 1515,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -469,7 +469,7 @@
       "weekly": 1711528307929
     },
     "6288991429912@s.whatsapp.net": {
-      "exp": 946,
+      "exp": 981,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13925,7 +13925,7 @@
       "premiumTime": 0
     },
     "6289602658742@s.whatsapp.net": {
-      "exp": 598,
+      "exp": 628,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13971,7 +13971,7 @@
       "premiumTime": 0
     },
     "6289514811264@s.whatsapp.net": {
-      "exp": 18,
+      "exp": 38,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -18406,8 +18406,8 @@
       "premiumTime": 0
     },
     "62895386008300@s.whatsapp.net": {
-      "exp": 706,
-      "coin": 2921,
+      "exp": 749,
+      "coin": 3374,
       "diamond": 69,
       "bank": 4321,
       "lastclaim": 1725163894879,
@@ -18428,7 +18428,7 @@
       "prem": false,
       "premiumTime": 0,
       "crime": 1725163893747,
-      "lastmiming": 1724198376274
+      "lastmiming": 1725206982811
     },
     "62895334040706@s.whatsapp.net": {
       "exp": 12,
@@ -36843,7 +36843,7 @@
       "premiumTime": 0
     },
     "6282236979608@s.whatsapp.net": {
-      "exp": 132,
+      "exp": 177,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -47317,9 +47317,9 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 174,
+      "total": 175,
       "success": 106,
-      "last": 1725166307103,
+      "last": 1725206983202,
       "lastSuccess": 1725166280325
     },
     "econ-weekly.js": {
@@ -47329,10 +47329,10 @@
       "lastSuccess": 1725166205689
     },
     "econ-mine.js": {
-      "total": 168,
-      "success": 106,
-      "last": 1725166308034,
-      "lastSuccess": 1725166308034
+      "total": 169,
+      "success": 107,
+      "last": 1725206982811,
+      "lastSuccess": 1725206982811
     },
     "econ-work.js": {
       "total": 28,
