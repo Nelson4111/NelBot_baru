@@ -327,7 +327,7 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 2848,
+      "exp": 2900,
       "coin": 5001,
       "diamond": 69,
       "bank": 0,
@@ -585,7 +585,7 @@
       "premiumTime": 0
     },
     "6285876974604@s.whatsapp.net": {
-      "exp": 12542,
+      "exp": 12546,
       "coin": 9941,
       "diamond": 67,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8504,
+      "exp": 8514,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -10545,7 +10545,7 @@
       "premiumTime": 0
     },
     "6281333807411@s.whatsapp.net": {
-      "exp": 269,
+      "exp": 271,
       "coin": 481,
       "diamond": 69,
       "bank": 0,
@@ -16293,7 +16293,7 @@
       "premiumTime": 0
     },
     "207519951642673@lid": {
-      "exp": 36,
+      "exp": 44,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30276,7 +30276,7 @@
       "crime": 1724058925880
     },
     "6287891477690@s.whatsapp.net": {
-      "exp": 312,
+      "exp": 382,
       "coin": 4585,
       "diamond": 69,
       "bank": 0,
@@ -36843,7 +36843,7 @@
       "premiumTime": 0
     },
     "6282236979608@s.whatsapp.net": {
-      "exp": 71,
+      "exp": 132,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -40415,7 +40415,7 @@
       "premiumTime": 0
     },
     "6285655290289@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 13,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -41388,6 +41388,52 @@
       "lastclaim": 0,
       "registered": false,
       "name": "Kyy`",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "9887132188768@lid": {
+      "exp": 3,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Gopi Satoru",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6283141973241@s.whatsapp.net": {
+      "exp": 5,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 831-4197-3241",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -47415,10 +47461,10 @@
       "lastSuccess": 1714053013893
     },
     "av-Nyanyi.js": {
-      "total": 85,
-      "success": 85,
-      "last": 1725202388807,
-      "lastSuccess": 1725202388807
+      "total": 87,
+      "success": 87,
+      "last": 1725204680432,
+      "lastSuccess": 1725204680432
     },
     "fun-alay.js": {
       "total": 4,
