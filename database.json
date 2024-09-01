@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33723,
+      "exp": 33733,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383260,
+      "exp": 1383286,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -7154,7 +7154,7 @@
       "premiumTime": 0
     },
     "6283821458700@s.whatsapp.net": {
-      "exp": 325,
+      "exp": 330,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7292,7 +7292,7 @@
       "premiumTime": 0
     },
     "6281341702540@s.whatsapp.net": {
-      "exp": 264,
+      "exp": 274,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7499,7 +7499,7 @@
       "premiumTime": 0
     },
     "628990668334@s.whatsapp.net": {
-      "exp": 2695,
+      "exp": 2701,
       "coin": 3314,
       "diamond": 69,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 158277,
+      "exp": 158281,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -13902,7 +13902,7 @@
       "premiumTime": 0
     },
     "6281226593958@s.whatsapp.net": {
-      "exp": 921,
+      "exp": 1003,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 457,
+      "exp": 464,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -20528,7 +20528,7 @@
       "premiumTime": 0
     },
     "279482229358721@lid": {
-      "exp": 3,
+      "exp": 4,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -37273,7 +37273,7 @@
       "premiumTime": 0
     },
     "55538339557437@lid": {
-      "exp": 7,
+      "exp": 16,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -38723,6 +38723,98 @@
       "lastclaim": 0,
       "registered": false,
       "name": "Obed",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "263496579166344@lid": {
+      "exp": 8,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "firdausfaqih",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "170506024157371@lid": {
+      "exp": 7,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Mutou Ryuu",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "160812299730980@lid": {
+      "exp": 7,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "kenzo",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "189030218125335@lid": {
+      "exp": 1,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ilham Aditya",
       "age": -1,
       "regTime": -1,
       "afk": -1,
