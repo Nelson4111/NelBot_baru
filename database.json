@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 20367,
+      "exp": 20368,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -16248,7 +16248,7 @@
       "premiumTime": 0
     },
     "6285158544415@s.whatsapp.net": {
-      "exp": 126,
+      "exp": 130,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30202,7 +30202,7 @@
       "premiumTime": 0
     },
     "6281371825548@s.whatsapp.net": {
-      "exp": 17439,
+      "exp": 17444,
       "coin": 9610,
       "diamond": 67,
       "bank": 0,
@@ -37643,7 +37643,7 @@
       "premiumTime": 0
     },
     "169664160260325@lid": {
-      "exp": 7,
+      "exp": 10,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -40286,6 +40286,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "S",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "155959037059289@lid": {
+      "exp": 1,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "chel",
       "age": -1,
       "regTime": -1,
       "afk": -1,
