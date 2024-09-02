@@ -75,7 +75,7 @@
       "lastslot": 1718724370184
     },
     "6285815653469@s.whatsapp.net": {
-      "exp": 575,
+      "exp": 713,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1536,
+      "exp": 1544,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -327,11 +327,11 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 2948,
-      "coin": 5001,
+      "exp": 3286,
+      "coin": 5501,
       "diamond": 69,
       "bank": 0,
-      "lastclaim": 1724407815666,
+      "lastclaim": 1725286576970,
       "registered": false,
       "name": "Farhan",
       "age": -1,
@@ -350,7 +350,7 @@
       "premiumTime": 0,
       "lastmiming": 1724753848268,
       "weekly": 1724753854137,
-      "lastslot": 1718725138616,
+      "lastslot": 1725286600104,
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
@@ -887,7 +887,7 @@
       "premiumTime": 0
     },
     "6283199280461@s.whatsapp.net": {
-      "exp": 1156,
+      "exp": 1172,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3814,
+      "exp": 3822,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -10937,7 +10937,7 @@
       "premiumTime": 0
     },
     "6287772922180@s.whatsapp.net": {
-      "exp": 140,
+      "exp": 153,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13421,7 +13421,7 @@
       "premiumTime": 0
     },
     "6285706655646@s.whatsapp.net": {
-      "exp": 676,
+      "exp": 739,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13810,7 +13810,7 @@
       "premiumTime": 0
     },
     "6285954733344@s.whatsapp.net": {
-      "exp": 465,
+      "exp": 500,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13902,7 +13902,7 @@
       "premiumTime": 0
     },
     "6281226593958@s.whatsapp.net": {
-      "exp": 1020,
+      "exp": 1039,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -22305,7 +22305,7 @@
       "premiumTime": 0
     },
     "6283165275677@s.whatsapp.net": {
-      "exp": 685,
+      "exp": 694,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30202,7 +30202,7 @@
       "premiumTime": 0
     },
     "6281371825548@s.whatsapp.net": {
-      "exp": 20369,
+      "exp": 20456,
       "coin": 18267,
       "diamond": 67,
       "bank": 0,
@@ -30251,8 +30251,8 @@
       "premiumTime": 0
     },
     "6285141072992@s.whatsapp.net": {
-      "exp": 631,
-      "coin": 6500,
+      "exp": 722,
+      "coin": 8000,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 1725254869307,
@@ -30427,7 +30427,7 @@
       "premiumTime": 0
     },
     "6289503310542@s.whatsapp.net": {
-      "exp": 131,
+      "exp": 232,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -33128,7 +33128,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 525,
+      "exp": 531,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36844,7 +36844,7 @@
       "premiumTime": 0
     },
     "6282236979608@s.whatsapp.net": {
-      "exp": 177,
+      "exp": 222,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -47886,10 +47886,10 @@
       "lastSuccess": 1725166184250
     },
     "_cek.js": {
-      "total": 261,
-      "success": 261,
-      "last": 1725284910749,
-      "lastSuccess": 1725284910749
+      "total": 262,
+      "success": 262,
+      "last": 1725287594724,
+      "lastSuccess": 1725287594724
     },
     "game-dado.js": {
       "total": 17,
@@ -47988,10 +47988,10 @@
       "lastSuccess": 1718967815703
     },
     "av-bot.js": {
-      "total": 165,
-      "success": 165,
-      "last": 1724462372746,
-      "lastSuccess": 1724462372746
+      "total": 166,
+      "success": 166,
+      "last": 1725287587714,
+      "lastSuccess": 1725287587714
     },
     "dl-mediafire.js": {
       "total": 4,
@@ -48180,15 +48180,15 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 179,
-      "success": 110,
-      "last": 1725284764353,
-      "lastSuccess": 1725284764353
+      "total": 180,
+      "success": 111,
+      "last": 1725286576970,
+      "lastSuccess": 1725286576970
     },
     "econ-weekly.js": {
-      "total": 74,
+      "total": 75,
       "success": 48,
-      "last": 1725284882277,
+      "last": 1725286346645,
       "lastSuccess": 1725284882277
     },
     "econ-mine.js": {
@@ -48294,9 +48294,9 @@
       "lastSuccess": 1719118896730
     },
     "game-slot.js": {
-      "total": 334,
+      "total": 336,
       "success": 244,
-      "last": 1719118345044,
+      "last": 1725286600879,
       "lastSuccess": 1719118345044
     },
     "bebot-broadcastBots.js": {
@@ -48324,10 +48324,10 @@
       "lastSuccess": 1714053013893
     },
     "av-Nyanyi.js": {
-      "total": 87,
-      "success": 87,
-      "last": 1725204680432,
-      "lastSuccess": 1725204680432
+      "total": 90,
+      "success": 90,
+      "last": 1725288048556,
+      "lastSuccess": 1725288048556
     },
     "fun-alay.js": {
       "total": 4,
@@ -48402,10 +48402,10 @@
       "lastSuccess": 1718795880678
     },
     "main-runtime.js": {
-      "total": 45,
-      "success": 45,
-      "last": 1725254859541,
-      "lastSuccess": 1725254859541
+      "total": 46,
+      "success": 46,
+      "last": 1725286339436,
+      "lastSuccess": 1725286339436
     },
     "game-tictactoe.js": {
       "total": 12,
@@ -48510,16 +48510,16 @@
       "lastSuccess": 1712412226492
     },
     "game-roulette.js": {
-      "total": 945,
-      "success": 903,
-      "last": 1724407881933,
-      "lastSuccess": 1724407881933
+      "total": 946,
+      "success": 904,
+      "last": 1725286376754,
+      "lastSuccess": 1725286376754
     },
     "av-sad.js": {
-      "total": 178,
-      "success": 178,
-      "last": 1725257452045,
-      "lastSuccess": 1725257452045
+      "total": 181,
+      "success": 181,
+      "last": 1725288419863,
+      "lastSuccess": 1725288419863
     },
     "fun-apakah.js": {
       "total": 48,
