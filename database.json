@@ -75,7 +75,7 @@
       "lastslot": 1718724370184
     },
     "6285815653469@s.whatsapp.net": {
-      "exp": 713,
+      "exp": 719,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -327,7 +327,7 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 3286,
+      "exp": 3293,
       "coin": 5501,
       "diamond": 69,
       "bank": 0,
@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 594,
+      "exp": 598,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33783,
+      "exp": 33811,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3822,
+      "exp": 3826,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383320,
+      "exp": 1383334,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -30251,8 +30251,8 @@
       "premiumTime": 0
     },
     "6285141072992@s.whatsapp.net": {
-      "exp": 722,
-      "coin": 8000,
+      "exp": 823,
+      "coin": 8010,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 1725254869307,
@@ -30273,7 +30273,8 @@
       "prem": false,
       "premiumTime": 0,
       "weekly": 1725254872056,
-      "crime": 1724058925880
+      "crime": 1724058925880,
+      "lastslot": 1725289465712
     },
     "6287891477690@s.whatsapp.net": {
       "exp": 382,
@@ -33128,7 +33129,7 @@
       "premiumTime": 0
     },
     "62895629928010@s.whatsapp.net": {
-      "exp": 531,
+      "exp": 532,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -48294,9 +48295,9 @@
       "lastSuccess": 1719118896730
     },
     "game-slot.js": {
-      "total": 336,
+      "total": 339,
       "success": 244,
-      "last": 1725286600879,
+      "last": 1725289493955,
       "lastSuccess": 1719118345044
     },
     "bebot-broadcastBots.js": {
@@ -48402,10 +48403,10 @@
       "lastSuccess": 1718795880678
     },
     "main-runtime.js": {
-      "total": 46,
-      "success": 46,
-      "last": 1725286339436,
-      "lastSuccess": 1725286339436
+      "total": 47,
+      "success": 47,
+      "last": 1725289478740,
+      "lastSuccess": 1725289478740
     },
     "game-tictactoe.js": {
       "total": 12,
