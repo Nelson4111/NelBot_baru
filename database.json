@@ -515,7 +515,7 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 1995,
+      "exp": 2003,
       "coin": 448,
       "diamond": 69,
       "bank": 0,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 33765,
+      "exp": 33772,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -585,7 +585,7 @@
       "premiumTime": 0
     },
     "6285876974604@s.whatsapp.net": {
-      "exp": 12546,
+      "exp": 12548,
       "coin": 9941,
       "diamond": 67,
       "bank": 0,
@@ -887,7 +887,7 @@
       "premiumTime": 0
     },
     "6283199280461@s.whatsapp.net": {
-      "exp": 1148,
+      "exp": 1156,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -3887,7 +3887,7 @@
       "premiumTime": 0
     },
     "62882008150180@s.whatsapp.net": {
-      "exp": 15,
+      "exp": 23,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7154,7 +7154,7 @@
       "premiumTime": 0
     },
     "6283821458700@s.whatsapp.net": {
-      "exp": 346,
+      "exp": 354,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13327,7 +13327,7 @@
       "premiumTime": 0
     },
     "6283121099207@s.whatsapp.net": {
-      "exp": 26715,
+      "exp": 26774,
       "coin": 209,
       "diamond": 68,
       "bank": 0,
@@ -23922,7 +23922,7 @@
       "premiumTime": 0
     },
     "6281355645183@s.whatsapp.net": {
-      "exp": 68,
+      "exp": 72,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -42019,6 +42019,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "158991233613889@lid": {
+      "exp": 4,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "~vand",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -47546,14 +47569,31 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "120363030306936814@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 409,
-      "success": 398,
-      "last": 1725268863700,
-      "lastSuccess": 1725268863700
+      "total": 410,
+      "success": 399,
+      "last": 1725272220326,
+      "lastSuccess": 1725272220326
     },
     "main-creator.js": {
       "total": 11,
