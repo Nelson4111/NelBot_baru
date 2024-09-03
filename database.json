@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 20597,
+      "exp": 20607,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1686,
+      "exp": 1699,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3830,
+      "exp": 3831,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383484,
+      "exp": 1383497,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -22328,7 +22328,7 @@
       "premiumTime": 0
     },
     "6281775028551@s.whatsapp.net": {
-      "exp": 43,
+      "exp": 53,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30588,7 +30588,7 @@
       "premiumTime": 0
     },
     "6281372438218@s.whatsapp.net": {
-      "exp": 318,
+      "exp": 323,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -42351,6 +42351,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "dika",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6289630047635@s.whatsapp.net": {
+      "exp": 2,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 896-3004-7635",
       "age": -1,
       "regTime": -1,
       "afk": -1,
