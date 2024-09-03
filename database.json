@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 20582,
+      "exp": 20597,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1563,
+      "exp": 1569,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 624,
+      "exp": 645,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383474,
+      "exp": 1383484,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -4924,7 +4924,7 @@
       "premiumTime": 0
     },
     "6289520639176@s.whatsapp.net": {
-      "exp": 382,
+      "exp": 386,
       "coin": 0,
       "diamond": 64,
       "bank": 0,
@@ -30588,7 +30588,7 @@
       "premiumTime": 0
     },
     "6281372438218@s.whatsapp.net": {
-      "exp": 289,
+      "exp": 318,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -36846,7 +36846,7 @@
       "premiumTime": 0
     },
     "6282236979608@s.whatsapp.net": {
-      "exp": 244,
+      "exp": 249,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -42344,7 +42344,7 @@
       "premiumTime": 0
     },
     "6283110010492@s.whatsapp.net": {
-      "exp": 21,
+      "exp": 39,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -47947,10 +47947,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 427,
-      "success": 416,
-      "last": 1725364355738,
-      "lastSuccess": 1725364355738
+      "total": 428,
+      "success": 417,
+      "last": 1725370810354,
+      "lastSuccess": 1725370810354
     },
     "main-creator.js": {
       "total": 12,
