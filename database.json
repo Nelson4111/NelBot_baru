@@ -585,7 +585,7 @@
       "premiumTime": 0
     },
     "6285876974604@s.whatsapp.net": {
-      "exp": 12548,
+      "exp": 12792,
       "coin": 9941,
       "diamond": 67,
       "bank": 0,
@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1669,
+      "exp": 1672,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8621,
+      "exp": 8647,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -10545,7 +10545,7 @@
       "premiumTime": 0
     },
     "6281333807411@s.whatsapp.net": {
-      "exp": 296,
+      "exp": 329,
       "coin": 481,
       "diamond": 69,
       "bank": 0,
@@ -14615,7 +14615,7 @@
       "premiumTime": 0
     },
     "6281232260615@s.whatsapp.net": {
-      "exp": 63,
+      "exp": 92,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30429,7 +30429,7 @@
       "premiumTime": 0
     },
     "6289503310542@s.whatsapp.net": {
-      "exp": 250,
+      "exp": 274,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -47924,16 +47924,16 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 423,
-      "success": 412,
-      "last": 1725356006345,
-      "lastSuccess": 1725356006345
+      "total": 426,
+      "success": 415,
+      "last": 1725358648884,
+      "lastSuccess": 1725358648884
     },
     "main-creator.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1719049235203,
-      "lastSuccess": 1719049235203
+      "total": 12,
+      "success": 12,
+      "last": 1725358640585,
+      "lastSuccess": 1725358640585
     },
     "gp-link.js": {
       "total": 6,
@@ -47978,10 +47978,10 @@
       "lastSuccess": 1719028508828
     },
     "bebot-bebot.js": {
-      "total": 108,
-      "success": 76,
-      "last": 1725281833650,
-      "lastSuccess": 1725281719292
+      "total": 109,
+      "success": 77,
+      "last": 1725358626920,
+      "lastSuccess": 1725358626920
     },
     "gp-kick.js": {
       "total": 30,
@@ -47990,9 +47990,9 @@
       "lastSuccess": 1724933139556
     },
     "sticker-sticker.js": {
-      "total": 360,
+      "total": 361,
       "success": 336,
-      "last": 1725329210502,
+      "last": 1725358630625,
       "lastSuccess": 1725329210502
     },
     "owner-exec.js": {
@@ -48002,10 +48002,10 @@
       "lastSuccess": 1725166184250
     },
     "_cek.js": {
-      "total": 262,
-      "success": 262,
-      "last": 1725287594724,
-      "lastSuccess": 1725287594724
+      "total": 264,
+      "success": 264,
+      "last": 1725358634259,
+      "lastSuccess": 1725358634259
     },
     "game-dado.js": {
       "total": 17,
@@ -48104,10 +48104,10 @@
       "lastSuccess": 1718967815703
     },
     "av-bot.js": {
-      "total": 166,
-      "success": 166,
-      "last": 1725287587714,
-      "lastSuccess": 1725287587714
+      "total": 167,
+      "success": 167,
+      "last": 1725358612598,
+      "lastSuccess": 1725358612598
     },
     "dl-mediafire.js": {
       "total": 4,
