@@ -75,7 +75,7 @@
       "lastslot": 1718724370184
     },
     "6285815653469@s.whatsapp.net": {
-      "exp": 719,
+      "exp": 727,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1559,
+      "exp": 1563,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 611,
+      "exp": 615,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8575,
+      "exp": 8621,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -887,7 +887,7 @@
       "premiumTime": 0
     },
     "6283199280461@s.whatsapp.net": {
-      "exp": 1205,
+      "exp": 1212,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -13097,7 +13097,7 @@
       "premiumTime": 0
     },
     "6281228092255@s.whatsapp.net": {
-      "exp": 59,
+      "exp": 69,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13810,7 +13810,7 @@
       "premiumTime": 0
     },
     "6285954733344@s.whatsapp.net": {
-      "exp": 500,
+      "exp": 503,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23991,7 +23991,7 @@
       "premiumTime": 0
     },
     "628871097512@s.whatsapp.net": {
-      "exp": 240,
+      "exp": 265,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30251,7 +30251,7 @@
       "premiumTime": 0
     },
     "6285141072992@s.whatsapp.net": {
-      "exp": 823,
+      "exp": 824,
       "coin": 5932,
       "diamond": 69,
       "bank": 0,
@@ -47924,10 +47924,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 422,
-      "success": 411,
-      "last": 1725329940816,
-      "lastSuccess": 1725329940816
+      "total": 423,
+      "success": 412,
+      "last": 1725356006345,
+      "lastSuccess": 1725356006345
     },
     "main-creator.js": {
       "total": 11,
