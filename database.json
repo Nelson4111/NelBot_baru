@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 20477,
+      "exp": 20582,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1672,
+      "exp": 1686,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8647,
+      "exp": 8672,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383334,
+      "exp": 1383474,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -1308,7 +1308,7 @@
       "premiumTime": 0
     },
     "6285693165953@s.whatsapp.net": {
-      "exp": 3397,
+      "exp": 3400,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 334,
+      "exp": 342,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -21391,7 +21391,7 @@
       "premiumTime": 0
     },
     "62881038727987@s.whatsapp.net": {
-      "exp": 35,
+      "exp": 40,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30202,7 +30202,7 @@
       "premiumTime": 0
     },
     "6281371825548@s.whatsapp.net": {
-      "exp": 20456,
+      "exp": 20534,
       "coin": 18267,
       "diamond": 67,
       "bank": 0,
@@ -47924,10 +47924,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 426,
-      "success": 415,
-      "last": 1725358648884,
-      "lastSuccess": 1725358648884
+      "total": 427,
+      "success": 416,
+      "last": 1725364355738,
+      "lastSuccess": 1725364355738
     },
     "main-creator.js": {
       "total": 12,
@@ -48002,10 +48002,10 @@
       "lastSuccess": 1725166184250
     },
     "_cek.js": {
-      "total": 264,
-      "success": 264,
-      "last": 1725358634259,
-      "lastSuccess": 1725358634259
+      "total": 266,
+      "success": 266,
+      "last": 1725364353857,
+      "lastSuccess": 1725364353857
     },
     "game-dado.js": {
       "total": 17,
@@ -48326,10 +48326,10 @@
       "lastSuccess": 1718982865174
     },
     "econ-balance.js": {
-      "total": 619,
-      "success": 619,
-      "last": 1725281923943,
-      "lastSuccess": 1725281923943
+      "total": 620,
+      "success": 620,
+      "last": 1725364359139,
+      "lastSuccess": 1725364359139
     },
     "econ-buy.js": {
       "total": 26,
