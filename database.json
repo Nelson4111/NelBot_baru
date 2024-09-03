@@ -11190,7 +11190,7 @@
       "premiumTime": 0
     },
     "6289630118440@s.whatsapp.net": {
-      "exp": 5265,
+      "exp": 5309,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -18200,7 +18200,7 @@
       "premiumTime": 0
     },
     "6287812410502@s.whatsapp.net": {
-      "exp": 48,
+      "exp": 110,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -36621,7 +36621,7 @@
       "premiumTime": 0
     },
     "6288994173802@s.whatsapp.net": {
-      "exp": 18,
+      "exp": 26,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -42272,6 +42272,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6287875304525@s.whatsapp.net": {
+      "exp": 6,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 878-7530-4525",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -47854,10 +47877,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 419,
-      "success": 408,
-      "last": 1725283887201,
-      "lastSuccess": 1725283887201
+      "total": 422,
+      "success": 411,
+      "last": 1725329940816,
+      "lastSuccess": 1725329940816
     },
     "main-creator.js": {
       "total": 11,
@@ -47920,10 +47943,10 @@
       "lastSuccess": 1724933139556
     },
     "sticker-sticker.js": {
-      "total": 358,
-      "success": 334,
-      "last": 1725164380065,
-      "lastSuccess": 1725164380065
+      "total": 360,
+      "success": 336,
+      "last": 1725329210502,
+      "lastSuccess": 1725329210502
     },
     "owner-exec.js": {
       "total": 22,
