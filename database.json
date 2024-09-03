@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8570,
+      "exp": 8575,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30252,7 +30252,7 @@
     },
     "6285141072992@s.whatsapp.net": {
       "exp": 823,
-      "coin": 8010,
+      "coin": 5932,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 1725254869307,
@@ -30302,11 +30302,11 @@
       "weekly": 1724064492625
     },
     "6287716300353@s.whatsapp.net": {
-      "exp": 573,
-      "coin": 0,
+      "exp": 666,
+      "coin": 3745,
       "diamond": 69,
       "bank": 15709,
-      "lastclaim": 1724750217649,
+      "lastclaim": 1725343465982,
       "registered": false,
       "name": "nana",
       "age": -1,
@@ -30323,9 +30323,10 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0,
-      "crime": 1724750174170,
+      "crime": 1725343478542,
       "weekly": 1724750255995,
-      "lastmiming": 1724801443601
+      "lastmiming": 1725343473996,
+      "lastslot": 1725343487706
     },
     "6282141150018@s.whatsapp.net": {
       "exp": 132479,
@@ -48295,10 +48296,10 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 180,
-      "success": 111,
-      "last": 1725286576970,
-      "lastSuccess": 1725286576970
+      "total": 181,
+      "success": 112,
+      "last": 1725343465982,
+      "lastSuccess": 1725343465982
     },
     "econ-weekly.js": {
       "total": 75,
@@ -48307,10 +48308,10 @@
       "lastSuccess": 1725284882277
     },
     "econ-mine.js": {
-      "total": 173,
-      "success": 110,
-      "last": 1725284947576,
-      "lastSuccess": 1725284871036
+      "total": 174,
+      "success": 111,
+      "last": 1725343473996,
+      "lastSuccess": 1725343473996
     },
     "econ-work.js": {
       "total": 28,
@@ -48337,10 +48338,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 245,
-      "success": 162,
-      "last": 1725284933433,
-      "lastSuccess": 1725284889508
+      "total": 246,
+      "success": 163,
+      "last": 1725343478543,
+      "lastSuccess": 1725343478543
     },
     "rg-register.js": {
       "total": 68,
@@ -48409,9 +48410,9 @@
       "lastSuccess": 1719118896730
     },
     "game-slot.js": {
-      "total": 339,
+      "total": 340,
       "success": 244,
-      "last": 1725289493955,
+      "last": 1725343488474,
       "lastSuccess": 1719118345044
     },
     "bebot-broadcastBots.js": {
