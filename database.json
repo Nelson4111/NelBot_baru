@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 615,
+      "exp": 624,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -634,7 +634,7 @@
       "premiumTime": 0
     },
     "6285299402730@s.whatsapp.net": {
-      "exp": 97,
+      "exp": 115,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -933,7 +933,7 @@
       "premiumTime": 0
     },
     "6281251737411-1635767306@g.us": {
-      "exp": 313,
+      "exp": 316,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3828,
+      "exp": 3830,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -14916,7 +14916,7 @@
       "premiumTime": 0
     },
     "120363040474335998@g.us": {
-      "exp": 35,
+      "exp": 40,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -42328,6 +42328,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "M ZADID ILMI",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6283110010492@s.whatsapp.net": {
+      "exp": 21,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "dika",
       "age": -1,
       "regTime": -1,
       "afk": -1,
