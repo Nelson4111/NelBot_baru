@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 20738,
+      "exp": 20757,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -327,7 +327,7 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 3301,
+      "exp": 3308,
       "coin": 5501,
       "diamond": 69,
       "bank": 0,
@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1729,
+      "exp": 1739,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383521,
+      "exp": 1383533,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -1952,7 +1952,7 @@
       "premiumTime": 0
     },
     "6281228746934@s.whatsapp.net": {
-      "exp": 611,
+      "exp": 626,
       "coin": 0,
       "diamond": 67,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 158470,
+      "exp": 158490,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -12914,7 +12914,7 @@
       "premiumTime": 0
     },
     "62895612846664@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 48,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -15903,7 +15903,7 @@
       "premiumTime": 0
     },
     "6287852214457@s.whatsapp.net": {
-      "exp": 48,
+      "exp": 83,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -16248,7 +16248,7 @@
       "premiumTime": 0
     },
     "6285158544415@s.whatsapp.net": {
-      "exp": 212,
+      "exp": 216,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30429,7 +30429,7 @@
       "premiumTime": 0
     },
     "6289503310542@s.whatsapp.net": {
-      "exp": 315,
+      "exp": 384,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30903,7 +30903,7 @@
       "premiumTime": 0
     },
     "6281929364112@s.whatsapp.net": {
-      "exp": 225,
+      "exp": 240,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -48359,10 +48359,10 @@
       "lastSuccess": 0
     },
     "gp-settings.js": {
-      "total": 21,
-      "success": 21,
-      "last": 1724685814429,
-      "lastSuccess": 1724685814429
+      "total": 22,
+      "success": 22,
+      "last": 1725449642991,
+      "lastSuccess": 1725449642991
     },
     "bebot-botlist.js": {
       "total": 8,
@@ -48533,10 +48533,10 @@
       "lastSuccess": 1718765103633
     },
     "av-Panik.js": {
-      "total": 133,
-      "success": 133,
-      "last": 1725281812704,
-      "lastSuccess": 1725281812704
+      "total": 134,
+      "success": 134,
+      "last": 1725449516252,
+      "lastSuccess": 1725449516252
     },
     "bebot-stopbot.js": {
       "total": 18,
