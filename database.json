@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1700,
+      "exp": 1719,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 8730,
+      "exp": 8738,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383497,
+      "exp": 1383521,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -13421,7 +13421,7 @@
       "premiumTime": 0
     },
     "6285706655646@s.whatsapp.net": {
-      "exp": 739,
+      "exp": 740,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14244,7 +14244,7 @@
       "premiumTime": 0
     },
     "6281775252515@s.whatsapp.net": {
-      "exp": 173,
+      "exp": 180,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -20459,7 +20459,7 @@
       "premiumTime": 0
     },
     "6285158894140@s.whatsapp.net": {
-      "exp": 51,
+      "exp": 62,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -21368,7 +21368,7 @@
       "premiumTime": 0
     },
     "6288215805778@s.whatsapp.net": {
-      "exp": 177,
+      "exp": 203,
       "coin": 0,
       "diamond": 63,
       "bank": 0,
@@ -35329,7 +35329,7 @@
       "premiumTime": 0
     },
     "6285722052805@s.whatsapp.net": {
-      "exp": 108,
+      "exp": 112,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -42410,6 +42410,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6282195615237@s.whatsapp.net": {
+      "exp": 38,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Yoiyoi Siluman Jeruk",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -48118,9 +48141,9 @@
       "lastSuccess": 1718969611624
     },
     "dl-instagram.js": {
-      "total": 28,
+      "total": 29,
       "success": 22,
-      "last": 1724717361201,
+      "last": 1725421157201,
       "lastSuccess": 1718874384773
     },
     "gp-hidetag.js": {
