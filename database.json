@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3850,
+      "exp": 3856,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1095,7 +1095,7 @@
       "premiumTime": 0
     },
     "628989139222@s.whatsapp.net": {
-      "exp": 1383568,
+      "exp": 1383594,
       "coin": 482,
       "diamond": 105,
       "bank": 35000,
@@ -7292,7 +7292,7 @@
       "premiumTime": 0
     },
     "6281341702540@s.whatsapp.net": {
-      "exp": 274,
+      "exp": 285,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -23991,7 +23991,7 @@
       "premiumTime": 0
     },
     "628871097512@s.whatsapp.net": {
-      "exp": 265,
+      "exp": 324,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -43806,6 +43806,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6285654842511@s.whatsapp.net": {
+      "exp": 3,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 856-5484-2511",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -49435,14 +49458,31 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6281341702540@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 434,
-      "success": 423,
-      "last": 1725468553234,
-      "lastSuccess": 1725468553234
+      "total": 435,
+      "success": 424,
+      "last": 1725520599608,
+      "lastSuccess": 1725520599608
     },
     "main-creator.js": {
       "total": 12,
@@ -49505,10 +49545,10 @@
       "lastSuccess": 1724933139556
     },
     "sticker-sticker.js": {
-      "total": 361,
-      "success": 336,
-      "last": 1725358630625,
-      "lastSuccess": 1725329210502
+      "total": 362,
+      "success": 337,
+      "last": 1725520753533,
+      "lastSuccess": 1725520753533
     },
     "owner-exec.js": {
       "total": 22,
