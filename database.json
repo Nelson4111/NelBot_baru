@@ -47,7 +47,7 @@
       "premiumTime": 0
     },
     "6281241100804@s.whatsapp.net": {
-      "exp": 36890,
+      "exp": 36896,
       "coin": 162,
       "diamond": 19,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1625,
+      "exp": 1633,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -59019,6 +59019,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "Ryuma",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "601113221200@s.whatsapp.net": {
+      "exp": 20,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "☯︎♡ライブ忍 実際には♡☯︎",
       "age": -1,
       "regTime": -1,
       "afk": -1,
