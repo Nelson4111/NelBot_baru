@@ -1308,7 +1308,7 @@
       "premiumTime": 0
     },
     "6285693165953@s.whatsapp.net": {
-      "exp": 3423,
+      "exp": 3428,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30903,7 +30903,7 @@
       "premiumTime": 0
     },
     "6281929364112@s.whatsapp.net": {
-      "exp": 240,
+      "exp": 245,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -59065,6 +59065,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "Ran",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6289507410869@s.whatsapp.net": {
+      "exp": 12,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "RanpoGirlfie",
       "age": -1,
       "regTime": -1,
       "afk": -1,
