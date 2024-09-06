@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3889,
+      "exp": 3894,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -30355,7 +30355,7 @@
       "crime": 1725163939944
     },
     "6281245629886@s.whatsapp.net": {
-      "exp": 372,
+      "exp": 431,
       "coin": 10352,
       "diamond": 69,
       "bank": 0,
@@ -72453,14 +72453,31 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6281245629886@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 450,
-      "success": 439,
-      "last": 1725653867493,
-      "lastSuccess": 1725653867493
+      "total": 451,
+      "success": 440,
+      "last": 1725662549175,
+      "lastSuccess": 1725662549175
     },
     "main-creator.js": {
       "total": 12,
@@ -72511,10 +72528,10 @@
       "lastSuccess": 1719028508828
     },
     "bebot-bebot.js": {
-      "total": 123,
-      "success": 88,
-      "last": 1725609990010,
-      "lastSuccess": 1725609990010
+      "total": 124,
+      "success": 89,
+      "last": 1725662586815,
+      "lastSuccess": 1725662586815
     },
     "gp-kick.js": {
       "total": 30,
