@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 21013,
+      "exp": 21054,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1724,
+      "exp": 1743,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 9376,
+      "exp": 9407,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1446,7 +1446,7 @@
       "premiumTime": 0
     },
     "62895375740523@s.whatsapp.net": {
-      "exp": 2404,
+      "exp": 2406,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7707,7 +7707,7 @@
       "premiumTime": 0
     },
     "6285871428427@s.whatsapp.net": {
-      "exp": 158758,
+      "exp": 158798,
       "coin": 86,
       "diamond": 101,
       "bank": 9631,
@@ -18684,7 +18684,7 @@
       "premiumTime": 0
     },
     "6287889294754@s.whatsapp.net": {
-      "exp": 11146,
+      "exp": 11149,
       "coin": 1834,
       "diamond": 69,
       "bank": 13164,
@@ -30202,7 +30202,7 @@
       "premiumTime": 0
     },
     "6281371825548@s.whatsapp.net": {
-      "exp": 20534,
+      "exp": 20648,
       "coin": 18267,
       "diamond": 67,
       "bank": 0,
@@ -30303,7 +30303,7 @@
     },
     "6287716300353@s.whatsapp.net": {
       "exp": 666,
-      "coin": 3745,
+      "coin": 3730,
       "diamond": 69,
       "bank": 15709,
       "lastclaim": 1725343465982,
@@ -30588,11 +30588,11 @@
       "premiumTime": 0
     },
     "6281372438218@s.whatsapp.net": {
-      "exp": 323,
-      "coin": 0,
+      "exp": 490,
+      "coin": 6943,
       "diamond": 68,
       "bank": 0,
-      "lastclaim": 0,
+      "lastclaim": 1725612100182,
       "registered": false,
       "name": "Fathir Adam☭",
       "age": -1,
@@ -30608,7 +30608,10 @@
       "genero": "Indeciso",
       "language": "id",
       "prem": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "weekly": 1725612103372,
+      "crime": 1725612107072,
+      "lastmiming": 1725612116062
     },
     "102461226389545@lid": {
       "exp": 7,
@@ -72140,10 +72143,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 444,
-      "success": 433,
-      "last": 1725596030306,
-      "lastSuccess": 1725596030306
+      "total": 447,
+      "success": 436,
+      "last": 1725612126667,
+      "lastSuccess": 1725612126667
     },
     "main-creator.js": {
       "total": 12,
@@ -72194,10 +72197,10 @@
       "lastSuccess": 1719028508828
     },
     "bebot-bebot.js": {
-      "total": 121,
-      "success": 86,
-      "last": 1725603414770,
-      "lastSuccess": 1725603414446
+      "total": 123,
+      "success": 88,
+      "last": 1725609990010,
+      "lastSuccess": 1725609990010
     },
     "gp-kick.js": {
       "total": 30,
@@ -72218,10 +72221,10 @@
       "lastSuccess": 1725602935557
     },
     "_cek.js": {
-      "total": 285,
-      "success": 285,
-      "last": 1725605522689,
-      "lastSuccess": 1725605522689
+      "total": 287,
+      "success": 287,
+      "last": 1725609975029,
+      "lastSuccess": 1725609975029
     },
     "game-dado.js": {
       "total": 17,
@@ -72512,22 +72515,22 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 185,
-      "success": 116,
-      "last": 1725537162578,
-      "lastSuccess": 1725537162578
+      "total": 186,
+      "success": 117,
+      "last": 1725612100182,
+      "lastSuccess": 1725612100182
     },
     "econ-weekly.js": {
-      "total": 77,
-      "success": 50,
-      "last": 1725537165970,
-      "lastSuccess": 1725537165970
+      "total": 78,
+      "success": 51,
+      "last": 1725612103372,
+      "lastSuccess": 1725612103372
     },
     "econ-mine.js": {
-      "total": 177,
-      "success": 114,
-      "last": 1725537154120,
-      "lastSuccess": 1725537154120
+      "total": 178,
+      "success": 115,
+      "last": 1725612116062,
+      "lastSuccess": 1725612116062
     },
     "econ-work.js": {
       "total": 29,
@@ -72542,10 +72545,10 @@
       "lastSuccess": 1718982865174
     },
     "econ-balance.js": {
-      "total": 624,
-      "success": 624,
-      "last": 1725537330138,
-      "lastSuccess": 1725537330138
+      "total": 625,
+      "success": 625,
+      "last": 1725612159761,
+      "lastSuccess": 1725612159761
     },
     "econ-buy.js": {
       "total": 26,
@@ -72554,10 +72557,10 @@
       "lastSuccess": 1718983438029
     },
     "econ-crime.js": {
-      "total": 249,
-      "success": 166,
-      "last": 1725537157282,
-      "lastSuccess": 1725537157282
+      "total": 250,
+      "success": 167,
+      "last": 1725612107072,
+      "lastSuccess": 1725612107072
     },
     "rg-register.js": {
       "total": 68,
