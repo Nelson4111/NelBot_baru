@@ -354,7 +354,7 @@
       "crime": 1724753862551
     },
     "6282223958915@s.whatsapp.net": {
-      "exp": 699,
+      "exp": 702,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 9407,
+      "exp": 9425,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1446,7 +1446,7 @@
       "premiumTime": 0
     },
     "62895375740523@s.whatsapp.net": {
-      "exp": 2406,
+      "exp": 2408,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13120,7 +13120,7 @@
       "premiumTime": 0
     },
     "6285608918878@s.whatsapp.net": {
-      "exp": 358,
+      "exp": 375,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13650,7 +13650,7 @@
       "premiumTime": 0
     },
     "6283844797320@s.whatsapp.net": {
-      "exp": 20,
+      "exp": 21,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 515,
+      "exp": 521,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -52806,7 +52806,7 @@
       "premiumTime": 0
     },
     "6282322110205@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 22,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -66105,6 +66105,29 @@
       "lastclaim": 0,
       "registered": false,
       "name": "+62 821-1563-3057",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "160305510375528@lid": {
+      "exp": 6,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ari \"BowLetz\"",
       "age": -1,
       "regTime": -1,
       "afk": -1,
