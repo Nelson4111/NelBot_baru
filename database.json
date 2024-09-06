@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1679,
+      "exp": 1690,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3859,
+      "exp": 3863,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1653,7 +1653,7 @@
       "premiumTime": 0
     },
     "6281220836979@s.whatsapp.net": {
-      "exp": 529,
+      "exp": 531,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -13327,7 +13327,7 @@
       "premiumTime": 0
     },
     "6283121099207@s.whatsapp.net": {
-      "exp": 26781,
+      "exp": 26909,
       "coin": 1,
       "diamond": 68,
       "bank": 0,
@@ -66466,10 +66466,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 443,
-      "success": 432,
-      "last": 1725545886251,
-      "lastSuccess": 1725545886251
+      "total": 444,
+      "success": 433,
+      "last": 1725596030306,
+      "lastSuccess": 1725596030306
     },
     "main-creator.js": {
       "total": 12,
@@ -66610,10 +66610,10 @@
       "lastSuccess": 0
     },
     "dl-tiktok.js": {
-      "total": 153,
-      "success": 140,
-      "last": 1724407364029,
-      "lastSuccess": 1724407364029
+      "total": 154,
+      "success": 141,
+      "last": 1725596046838,
+      "lastSuccess": 1725596046838
     },
     "dl-igstalk.js": {
       "total": 10,
@@ -67414,10 +67414,10 @@
       "lastSuccess": 1718855914798
     },
     "rg-sn.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1719044018478,
-      "lastSuccess": 1719044018478
+      "total": 4,
+      "success": 4,
+      "last": 1725596080128,
+      "lastSuccess": 1725596080128
     },
     "owner-setbiobot.js": {
       "total": 2,
@@ -67442,6 +67442,12 @@
       "success": 0,
       "last": 1725535907948,
       "lastSuccess": 0
+    },
+    "_try.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1725596148393,
+      "lastSuccess": 1725596148393
     }
   },
   "msgs": {},
