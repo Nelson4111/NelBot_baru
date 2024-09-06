@@ -24,7 +24,7 @@
       "premiumTime": 0
     },
     "6281242432747@s.whatsapp.net": {
-      "exp": 139,
+      "exp": 141,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -515,7 +515,7 @@
       "premiumTime": 0
     },
     "6282228638623@s.whatsapp.net": {
-      "exp": 2620,
+      "exp": 2657,
       "coin": 448,
       "diamond": 69,
       "bank": 0,
@@ -772,7 +772,7 @@
       "premiumTime": 0
     },
     "6281545547100@s.whatsapp.net": {
-      "exp": 8573,
+      "exp": 8581,
       "coin": 1500,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 9445,
+      "exp": 9455,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3882,
+      "exp": 3889,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -30277,7 +30277,7 @@
       "lastslot": 1725289465712
     },
     "6287891477690@s.whatsapp.net": {
-      "exp": 382,
+      "exp": 394,
       "coin": 4585,
       "diamond": 69,
       "bank": 0,
@@ -72760,10 +72760,10 @@
       "lastSuccess": 1718795880678
     },
     "main-runtime.js": {
-      "total": 53,
-      "success": 53,
-      "last": 1725456771634,
-      "lastSuccess": 1725456771634
+      "total": 54,
+      "success": 54,
+      "last": 1725621827245,
+      "lastSuccess": 1725621827245
     },
     "game-tictactoe.js": {
       "total": 12,
