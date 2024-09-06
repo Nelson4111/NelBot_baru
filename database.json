@@ -66393,6 +66393,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6285244094624@s.whatsapp.net": {
+      "exp": 54,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Trafalgar   D  Michell",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -72413,14 +72436,31 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6285244094624@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 449,
-      "success": 438,
-      "last": 1725628710983,
-      "lastSuccess": 1725628710983
+      "total": 450,
+      "success": 439,
+      "last": 1725653867493,
+      "lastSuccess": 1725653867493
     },
     "main-creator.js": {
       "total": 12,
@@ -73287,10 +73327,10 @@
       "lastSuccess": 1724249685334
     },
     "maker-remini.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1725460010399,
-      "lastSuccess": 1725460010399
+      "total": 17,
+      "success": 17,
+      "last": 1725653998915,
+      "lastSuccess": 1725653998915
     },
     "dl-tiktokstalk.js": {
       "total": 4,
