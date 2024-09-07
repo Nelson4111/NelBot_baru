@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1779,
+      "exp": 1792,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -1072,7 +1072,7 @@
       "premiumTime": 0
     },
     "6285921972851@s.whatsapp.net": {
-      "exp": 3909,
+      "exp": 3925,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -1952,7 +1952,7 @@
       "premiumTime": 0
     },
     "6281228746934@s.whatsapp.net": {
-      "exp": 660,
+      "exp": 675,
       "coin": 0,
       "diamond": 67,
       "bank": 0,
@@ -7338,7 +7338,7 @@
       "premiumTime": 0
     },
     "6287890914201@s.whatsapp.net": {
-      "exp": 1012,
+      "exp": 1035,
       "coin": 0,
       "diamond": 56,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 591,
+      "exp": 593,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -14962,7 +14962,7 @@
       "premiumTime": 0
     },
     "6281936185786@s.whatsapp.net": {
-      "exp": 700,
+      "exp": 717,
       "coin": 6500,
       "diamond": 69,
       "bank": 0,
@@ -66621,7 +66621,7 @@
       "premiumTime": 0
     },
     "6283191125185@s.whatsapp.net": {
-      "exp": 58,
+      "exp": 20484,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -73104,10 +73104,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 455,
-      "success": 444,
-      "last": 1725717570431,
-      "lastSuccess": 1725717570431
+      "total": 456,
+      "success": 445,
+      "last": 1725718911240,
+      "lastSuccess": 1725718911240
     },
     "main-creator.js": {
       "total": 13,
@@ -73158,10 +73158,10 @@
       "lastSuccess": 1719028508828
     },
     "bebot-bebot.js": {
-      "total": 126,
-      "success": 91,
-      "last": 1725705225770,
-      "lastSuccess": 1725705225770
+      "total": 127,
+      "success": 92,
+      "last": 1725718263866,
+      "lastSuccess": 1725718263866
     },
     "gp-kick.js": {
       "total": 30,
@@ -73170,10 +73170,10 @@
       "lastSuccess": 1724933139556
     },
     "sticker-sticker.js": {
-      "total": 366,
-      "success": 341,
-      "last": 1725629900538,
-      "lastSuccess": 1725629900538
+      "total": 369,
+      "success": 342,
+      "last": 1725719932940,
+      "lastSuccess": 1725719932940
     },
     "owner-exec.js": {
       "total": 24,
@@ -73218,10 +73218,10 @@
       "lastSuccess": 1718792511936
     },
     "main-botInfo.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1724327898688,
-      "lastSuccess": 1724327898688
+      "total": 16,
+      "success": 16,
+      "last": 1725719826248,
+      "lastSuccess": 1725719826248
     },
     "info-totalfitur.js": {
       "total": 4,
@@ -73380,16 +73380,16 @@
       "lastSuccess": 1716345955613
     },
     "game-tebakgambar.js": {
-      "total": 16,
+      "total": 17,
       "success": 0,
-      "last": 1724424602826,
+      "last": 1725719709132,
       "lastSuccess": 0
     },
     "game-tebakkata.js": {
-      "total": 601,
-      "success": 569,
-      "last": 1725202474210,
-      "lastSuccess": 1724372019931
+      "total": 606,
+      "success": 574,
+      "last": 1725719760581,
+      "lastSuccess": 1725719760581
     },
     "gp-profile.js": {
       "total": 72,
@@ -73554,10 +73554,10 @@
       "lastSuccess": 1725537170650
     },
     "game-tebakkata-hint.js": {
-      "total": 247,
-      "success": 212,
-      "last": 1724372026486,
-      "lastSuccess": 1724372026486
+      "total": 252,
+      "success": 217,
+      "last": 1725719781580,
+      "lastSuccess": 1725719781580
     },
     "fun-jodohku.js": {
       "total": 34,
