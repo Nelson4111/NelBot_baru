@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 21261,
+      "exp": 21268,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -235,7 +235,7 @@
       "premiumTime": 0
     },
     "60165346338@s.whatsapp.net": {
-      "exp": 1757,
+      "exp": 1779,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -703,7 +703,7 @@
       "premiumTime": 0
     },
     "6281295909429@s.whatsapp.net": {
-      "exp": 561,
+      "exp": 562,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 9628,
+      "exp": 9635,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -7338,7 +7338,7 @@
       "premiumTime": 0
     },
     "6287890914201@s.whatsapp.net": {
-      "exp": 985,
+      "exp": 1012,
       "coin": 0,
       "diamond": 56,
       "bank": 0,
@@ -14313,7 +14313,7 @@
       "premiumTime": 0
     },
     "62895639457094@s.whatsapp.net": {
-      "exp": 544,
+      "exp": 591,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -66621,7 +66621,7 @@
       "premiumTime": 0
     },
     "6283191125185@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 58,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -73083,14 +73083,31 @@
       "nsfw": false,
       "expired": 0,
       "rules": ""
+    },
+    "6283191125185@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
     }
   },
   "stats": {
     "main-menu.js": {
-      "total": 453,
-      "success": 442,
-      "last": 1725705419786,
-      "lastSuccess": 1725705419786
+      "total": 455,
+      "success": 444,
+      "last": 1725717570431,
+      "lastSuccess": 1725717570431
     },
     "main-creator.js": {
       "total": 13,
@@ -73165,10 +73182,10 @@
       "lastSuccess": 1725602935557
     },
     "_cek.js": {
-      "total": 287,
-      "success": 287,
-      "last": 1725609975029,
-      "lastSuccess": 1725609975029
+      "total": 288,
+      "success": 288,
+      "last": 1725716570615,
+      "lastSuccess": 1725716570615
     },
     "game-dado.js": {
       "total": 17,
