@@ -189,7 +189,7 @@
       "premiumTime": 0
     },
     "6282211936949@s.whatsapp.net": {
-      "exp": 21103,
+      "exp": 21110,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -749,7 +749,7 @@
       "premiumTime": 0
     },
     "6281239500227@s.whatsapp.net": {
-      "exp": 1931,
+      "exp": 1953,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -795,7 +795,7 @@
       "premiumTime": 0
     },
     "62895410453355@s.whatsapp.net": {
-      "exp": 9566,
+      "exp": 9612,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -66573,6 +66573,29 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "6281333745461@s.whatsapp.net": {
+      "exp": 84,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Nael",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -72654,10 +72677,10 @@
       "lastSuccess": 1725662549175
     },
     "main-creator.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1725358640585,
-      "lastSuccess": 1725358640585
+      "total": 13,
+      "success": 13,
+      "last": 1725699775561,
+      "lastSuccess": 1725699775561
     },
     "gp-link.js": {
       "total": 6,
@@ -73554,10 +73577,10 @@
       "lastSuccess": 0
     },
     "tools-script.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1718778632171,
-      "lastSuccess": 1718778632171
+      "total": 4,
+      "success": 4,
+      "last": 1725699788852,
+      "lastSuccess": 1725699788852
     },
     "img-pinterest.js": {
       "total": 18,
