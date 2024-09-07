@@ -327,7 +327,7 @@
       "premiumTime": 0
     },
     "6282341980169@s.whatsapp.net": {
-      "exp": 4202,
+      "exp": 4218,
       "coin": 0,
       "diamond": 69,
       "bank": 67150,
@@ -562,7 +562,7 @@
       "premiumTime": 0
     },
     "6281251737411@s.whatsapp.net": {
-      "exp": 34028,
+      "exp": 34043,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -887,7 +887,7 @@
       "premiumTime": 0
     },
     "6283199280461@s.whatsapp.net": {
-      "exp": 1286,
+      "exp": 1287,
       "coin": 0,
       "diamond": 68,
       "bank": 0,
@@ -10546,7 +10546,7 @@
     },
     "6281333807411@s.whatsapp.net": {
       "exp": 329,
-      "coin": 481,
+      "coin": 263,
       "diamond": 69,
       "bank": 0,
       "lastclaim": 0,
@@ -11903,7 +11903,7 @@
       "premiumTime": 0
     },
     "6283816332980@s.whatsapp.net": {
-      "exp": 828,
+      "exp": 831,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -12017,7 +12017,7 @@
       "premiumTime": 0
     },
     "6282296730433@s.whatsapp.net": {
-      "exp": 54,
+      "exp": 69,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -12891,7 +12891,7 @@
       "premiumTime": 0
     },
     "6281249180740@s.whatsapp.net": {
-      "exp": 24,
+      "exp": 30,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -15811,7 +15811,7 @@
       "premiumTime": 0
     },
     "6281232385466@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 32,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -25701,7 +25701,7 @@
       "premiumTime": 0
     },
     "6289654099867@s.whatsapp.net": {
-      "exp": 15,
+      "exp": 17,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -25770,7 +25770,7 @@
       "premiumTime": 0
     },
     "6281973813520@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 13,
       "coin": 0,
       "diamond": 69,
       "bank": 0,
@@ -30381,11 +30381,11 @@
       "weekly": 1725284882277
     },
     "6285834452740@s.whatsapp.net": {
-      "exp": 77075,
+      "exp": 77266,
       "coin": 0,
       "diamond": 69,
-      "bank": 24522,
-      "lastclaim": 1725468578079,
+      "bank": 26321,
+      "lastclaim": 1725694228090,
       "registered": true,
       "name": "arun",
       "age": 15,
@@ -30403,8 +30403,8 @@
       "prem": false,
       "premiumTime": 0,
       "weekly": 1725468570018,
-      "lastmiming": 1725468583828,
-      "crime": 1725468586921
+      "lastmiming": 1725694233146,
+      "crime": 1725694241117
     },
     "213532989755434@lid": {
       "exp": 6,
@@ -66505,6 +66505,74 @@
       "language": "id",
       "prem": false,
       "premiumTime": 0
+    },
+    "224545319448645@lid": {
+      "exp": 5,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "628988366129@s.whatsapp.net": {
+      "exp": 5,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Vynxchen",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "60134998398@s.whatsapp.net": {
+      "exp": 18,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "❄𝕄𝕌𝕀𝕂𝔸ℕ𝔼(𝕄𝕌𝕀 𝕏 𝔸𝕂𝔸ℕ𝔼) ❄",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -72952,22 +73020,22 @@
       "lastSuccess": 1711512812089
     },
     "econ-daily.js": {
-      "total": 187,
-      "success": 118,
-      "last": 1725680559625,
-      "lastSuccess": 1725680559625
+      "total": 188,
+      "success": 119,
+      "last": 1725694228090,
+      "lastSuccess": 1725694228090
     },
     "econ-weekly.js": {
-      "total": 79,
+      "total": 80,
       "success": 52,
-      "last": 1725680563794,
+      "last": 1725694226670,
       "lastSuccess": 1725680563794
     },
     "econ-mine.js": {
-      "total": 178,
-      "success": 115,
-      "last": 1725612116062,
-      "lastSuccess": 1725612116062
+      "total": 179,
+      "success": 116,
+      "last": 1725694233146,
+      "lastSuccess": 1725694233146
     },
     "econ-work.js": {
       "total": 29,
@@ -72976,28 +73044,28 @@
       "lastSuccess": 0
     },
     "econ-shop.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1718982865174,
-      "lastSuccess": 1718982865174
+      "total": 18,
+      "success": 18,
+      "last": 1725694288870,
+      "lastSuccess": 1725694288870
     },
     "econ-balance.js": {
-      "total": 630,
-      "success": 630,
-      "last": 1725680809126,
-      "lastSuccess": 1725680809126
+      "total": 631,
+      "success": 631,
+      "last": 1725694275305,
+      "lastSuccess": 1725694275305
     },
     "econ-buy.js": {
-      "total": 26,
-      "success": 15,
-      "last": 1718983438029,
-      "lastSuccess": 1718983438029
+      "total": 27,
+      "success": 16,
+      "last": 1725694302726,
+      "lastSuccess": 1725694302726
     },
     "econ-crime.js": {
-      "total": 251,
-      "success": 168,
-      "last": 1725680622680,
-      "lastSuccess": 1725680622680
+      "total": 252,
+      "success": 169,
+      "last": 1725694241118,
+      "lastSuccess": 1725694241118
     },
     "rg-register.js": {
       "total": 68,
@@ -73018,10 +73086,10 @@
       "lastSuccess": 1724235467321
     },
     "econ-dep.js": {
-      "total": 175,
-      "success": 159,
-      "last": 1725680801151,
-      "lastSuccess": 1725680801151
+      "total": 176,
+      "success": 160,
+      "last": 1725694267589,
+      "lastSuccess": 1725694267589
     },
     "econ-leaderboard.js": {
       "total": 66,
